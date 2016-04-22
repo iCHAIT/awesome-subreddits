@@ -1,4 +1,4 @@
-[![](https://cdn.rawgit.com/sindresorhus//d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](sindresorhus/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome programming subreddits.
 
@@ -46,12 +46,49 @@
 - [Command Line](#command-line-utilities)
 - [Front End Developemnt](#command-line-utilities)
 - [Back End Developemnt](#command-line-utilities)
+    - [Django]
+    - [Flask]
+    - [Docker]
+    - [Vagrant]
+    - [Pyramid]
+    - [Play1 Framework]
+    - [CakePHP]
+    - [Symfony]
+    - [Laravel]
+    - [Rails]
+    - [nginx]
 - [CS Careers](#os-x-utilities)
 - [Resume](#setup)
 - [Programming](#security)
 - [Databases](#security)
 - [Development Environment](#security)
+    - [Quick Look Plugins]()
+    - [Dev Env]()
+    - [Dotfiles]()
+    - [Shell]()
+    - [Command-Line Apps]()
+    - [ZSH Plugins]()
+    - [GitHub]()
+    - [Browser Extensions]()
+    - [Git Cheat Sheet & Git Flow]()
+    - [Git Tips]()
+    - [Git Add-ons]()
+    - [SSH]()
+    - [FOSS for Developers]()
 - [Platforms](#security)
+    - [Node.js]
+    - [iOS]
+    - [Android]
+    - [IoT & Hybrid Apps]
+    - [Electron]
+    - [Cordova]
+    - [Linux]
+    - [OS X]
+    - [watchOS]
+    - [JVM]
+    - [Amazon Web Services]
+    - [Windows]
+    - [Heroku]
 - [Computer Science](#security)
 - [Miscellaneous](#miscellaneous)
 <!-- - [Discussion Forums](#discussion-forums) -->
@@ -60,44 +97,71 @@
 
 ## Programming Languages
 
-- [JavaScript]()
-- [Swift]()
-- [Python]()
-- [Rust]()
-- [Haskell]()
-<!-- - [PureScript]() -->
-- [Go]()
-- [Scala]()
-- [Ruby]()
-- [Clojure]()
-- [ClojureScript]()
-- [Elixir]()
-- [Elm]()
-- [Erlang]()
-- [Julia]()
-- [Lua]()
-- [C]()
-- [C++]()
-<!-- - [R]() -->
-<!-- - [D]() -->
-<!-- - [Common Lisp]() -->
-- [Perl]()
-- [Groovy]()
-- [Dart]()
-- [Java]()
-- [Kotlin]()
-<!-- - [OCaml]() -->
-<!-- - [Coldfusion]() -->
-<!-- - [Fortran]() -->
-- [.NET]()
-- [PHP]()
-<!-- - [Delphi]() -->
-<!-- - [Assembler]() -->
-- [AutoHotkey]()
-<!-- - [AutoIt]() -->
-<!-- - [Crystal]() -->
-<!-- - [TypeScript]() -->
+### JavaScript
 
+### Swift
+
+
+### Python
+
+
+### Rust
+
+
+
+### Haskell
+
+
+
+### Go
+
+
+
+### Scala
+
+
+
+### Ruby
+
+
+### Clojure
+
+
+
+### Elixir
+
+### Erlang
+
+
+### Julia
+
+
+
+### Lua
+
+
+### C
+
+
+
+### C++
+
+### Perl
+
+
+### Groovy
+
+
+### Dart
+
+### Java
+
+### .NET
+
+
+### PHP
+
+### AutoHotkey
 
 
 
@@ -106,28 +170,41 @@
 
 
 
-## Front ENd Development
+## Front End Development
 
 
 
-## Back ENd Development
+## Back End Development
 
 
-- [Django]()
-- [Flask]()
-- [Docker]()
-- [Vagrant]()
-- [Pyramid]()
-- [Play1 Framework]()
-- [CakePHP]()
-- [Symfony]()
-- [Laravel]()
-- [Rails]()
-- [Phalcon]()
-- [nginx]()
-- [Dropwizard]()
+### Django
+
+
+### Flask
+
+
+### Docker
+
+
+### Vagrant
+
+### Pyramid
+
+
+### Play1 Framework
+
+### CakePHP
+
+
+### Symfony
+
+### Laravel
+
+### Rails
+
+### nginx
+
 - [Kubernetes]()
-- [Lumen]()
 
 
 
@@ -143,25 +220,19 @@
 ## Platforms
 
 
-- [Node.js]()
-- [Frontend Development]()
-- [iOS]()
-- [Android]()
-- [IoT & Hybrid Apps]()
-- [Electron]()
-- [Cordova]()
-- [React Native]()
-- [Xamarin]()
-- [Linux]()
-- [OS X]()
-- [watchOS]()
-- [JVM]()
-- [Salesforce]()
-- [Amazon Web Services]()
-- [Windows]()
-- [IPFS]()
-- [Fuse]()
-- [Heroku]()
+### Node.js
+### iOS
+### Android
+### IoT & Hybrid Apps
+### Electron
+### Cordova
+### Linux
+### OS X
+### watchOS
+### JVM
+### Amazon Web Services
+### Windows
+### Heroku
 
 
 
@@ -171,26 +242,27 @@
 ## Development ENvironment
 
 
-- [Quick Look Plugins]()
-- [Dev Env]()
-- [Dotfiles]()
-- [Shell]()
-- [Command-Line Apps]()
-- [ZSH Plugins]()
-- [GitHub]()
-- [Browser Extensions]()
-- [Git Cheat Sheet & Git Flow]()
-- [Git Tips]()
-- [Git Add-ons]()
-- [SSH]()
-- [FOSS for Developers]()
+### Quick Look Plugins
+### Dev Env
+### Dotfiles
+### Shell
+### Command-Line Apps
+### ZSH Plugins
+### GitHub
+### Browser Extensions
+### Git Cheat Sheet & Git Flow
+### Git Tips
+### Git Add-ons
+### SSH
+### FOSS for Developers
 
 
 
 ## Miscellaneous
 
-* programmer humor
-* coolgithub projects
+* [/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/) - Not everybody understands the humor of programmers.
+* [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - A subreddit for every over the top, satirical, embarrassing, or downright, flat-out incorrect usage of Technology found in Movies, TV Shows, and Video Games!
+* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) -  Sharing Github projects just got easier!
 
 
 
@@ -198,7 +270,7 @@
 
 Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
 
-**[⬆ back to top](#table-of-contents)**
+**[Back to top](#table-of-contents)**
 
 
 ## License
