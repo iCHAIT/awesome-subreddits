@@ -7,6 +7,7 @@
 - [Programming Languages](#programming-languages)
     - [.NET](#net)
     - [AutoHotkey](#autohotkey)
+    - [C#]()
     - [C++](#c-1)
     - [C](#c-2)
     - [Clojure](#clojure)
@@ -27,40 +28,38 @@
     - [Rust](#rust)
     - [Scala](#scala)
     - [Swift](#swift)
+- [Platforms](#platforms)
+    - [Amazon Web Services](#amazon-web-services)
+    - [Android](#android)
+    - [Heroku](#heroku)
+    - [iOS](#ios)
+    - [IoT](#iot)
+    - [JVM]()
+    - [Linux](#linux)
+    - [Node.js](#nodejs)
+    - [OS X](#osx)
+    - [watchOS](#watchos)
+    - [Windows](#windows)
 - [Computer Science](#computer-science)
 - [Command Line](#command-line)
 - [Front End Developemnt](#front-end-development)
 - [Back End Developemnt](#back-end-development)
-    - [Django](#django)
-    - [Flask](#flask)
-    - [Docker](#docker)
-    - [Vagrant](#vagrant)
     - [CakePHP](#cakephp)
-    - [Symfony](#symfony)
+    - [Django](#django)
+    - [Docker](#docker)
+    - [Flask](#flask)
     - [Laravel](#laravel)
-    - [Rails](#rails)
     - [nginx](#nginx)
-- [Resume]()
-- [Programming]()
-- [Databases]()
+    - [Rails](#rails)
+    - [Symfony](#symfony)
+    - [Vagrant](#vagrant)
+- [Programming](#programming)
+- [Databases](#databases)
 - [Development Environment](#development-environment)
-    - [Dotfiles](#dotfiles)
-    - [GitHub](#github)
     - [Browser](#browser)
+    - [Dotfiles](#dotfiles)
     - [Git](#git)
-- [Platforms](#platforms)
-    - [Node.js](#nodejs)
-    - [iOS](#ios)
-    - [Android](#android)
-    - [IoT](#iot)
-    - [Linux](#linux)
-    - [OS X](#osx)
-    - [watchOS](#watchos)
-    - [JVM]()
-    - [Amazon Web Services](#amazon-web-services)
-    - [Windows](#windows)
-    - [Heroku](#heroku)
-- [Computer Science]()
+    - [GitHub](#github)
 - [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
 
@@ -76,13 +75,12 @@
 
 ### AutoHotkey
 
+* [/r/AutoHotkey/](https://www.reddit.com/r/AutoHotkey/)
 
 
-### C
+### C#
 
-* [/r/C_Programming/](https://www.reddit.com/r/C_Programming/)
-* [/r/c_language/](https://www.reddit.com/r/c_language/)
-* [/r/cprogramming/](https://www.reddit.com/r/cprogramming/)
+* [/r/csharp/](https://www.reddit.com/r/csharp)
 
 
 ### C++
@@ -91,9 +89,11 @@
 * [/r/cplusplus](https://www.reddit.com/r/cplusplus)
 
 
-### C#
+### C
 
-* [/r/csharp/](https://www.reddit.com/r/csharp)
+* [/r/C_Programming/](https://www.reddit.com/r/C_Programming/)
+* [/r/c_language/](https://www.reddit.com/r/c_language/)
+* [/r/cprogramming/](https://www.reddit.com/r/cprogramming/)
 
 
 ### Clojure
@@ -218,14 +218,6 @@
 
 * [/r/web_design](https://www.reddit.com/r/web_design)
 * [/r/webdev](https://www.reddit.com/r/webdev)
-
-
-
-
-
-
-
-
 
 
 
