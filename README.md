@@ -24,9 +24,9 @@
 - [Programming Languages](#programming-languages)
     - [.NET](#net)
     - [AutoHotkey](#autohotkey)
-    - [C++](#c-1)
-    - [C-sharp]()
-    - [C](#c-2)
+    - [C++](#c)
+    - [C-sharp](#c-sharp)
+    - [C](#c-1)
     - [Clojure](#clojure)
     - [Dart](#dart)
     - [Elixir](#elixir)
@@ -53,12 +53,10 @@
     - [IoT](#iot)
     - [Linux](#linux)
     - [Node.js](#nodejs)
-    - [OS X](#osx)
+    - [OS X](#os-x)
     - [watchOS](#watchos)
     - [Windows](#windows)
 - [Miscellaneous](#miscellaneous)
-    - [Browser](#browser)
-    - [Entertainment](#entertainment)
 - [Contribute](#contribute)
 
 
@@ -66,15 +64,15 @@
 
 ## Back End Development
 
+### CakePHP
+
+* [/r/cakephp](https://www.reddit.com/r/cakephp/)
+
+
 ### Django
 
 * [/r/django](https://www.reddit.com/r/django/)
 * [/r/djangolearning](http://www.reddit.com/r/djangolearning)
-
-
-### Flask
-
-* [/r/flask](https://www.reddit.com/r/flask)
 
 
 ### Docker
@@ -82,25 +80,20 @@
 * [/r/docker](https://www.reddit.com/r/docker)
 
 
-### Vagrant
+### Flask
 
-* [/r/vagrant](https://www.reddit.com/r/vagrant/)
-
-
-### CakePHP
-
-* [/r/cakephp](https://www.reddit.com/r/cakephp/)
-
-
-### Symfony
-
-* [/r/symfony](https://www.reddit.com/r/symfony)
+* [/r/flask](https://www.reddit.com/r/flask)
 
 
 ### Laravel
 
 * [/r/laravel](https://www.reddit.com/r/laravel/)
 * [/r/learnlaravel](https://www.reddit.com/r/learnlaravel/)
+
+
+### nginx
+
+* [/r/nginx](https://www.reddit.com/r/nginx/)
 
 
 ### Rails
@@ -111,9 +104,14 @@
 * [/r/rubyonrails](https://www.reddit.com/r/rubyonrails)
 
 
-### nginx
+### Symfony
 
-* [/r/nginx](https://www.reddit.com/r/nginx/)
+* [/r/symfony](https://www.reddit.com/r/symfony)
+
+
+### Vagrant
+
+* [/r/vagrant](https://www.reddit.com/r/vagrant/)
 
 
 
