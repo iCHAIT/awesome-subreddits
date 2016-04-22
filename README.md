@@ -58,10 +58,143 @@
     - [OS X](#osx)
     - [watchOS](#watchos)
     - [Windows](#windows)
-- [Entertainment](#entertainment)
 - [Miscellaneous](#miscellaneous)
     - [Browser](#browser)
+    - [Entertainment](#entertainment)
 - [Contribute](#contribute)
+
+
+
+
+## Back End Development
+
+### Django
+
+* [/r/django](https://www.reddit.com/r/django/)
+* [/r/djangolearning](http://www.reddit.com/r/djangolearning)
+
+
+### Flask
+
+* [/r/flask](https://www.reddit.com/r/flask)
+
+
+### Docker
+
+* [/r/docker](https://www.reddit.com/r/docker)
+
+
+### Vagrant
+
+* [/r/vagrant](https://www.reddit.com/r/vagrant/)
+
+
+### CakePHP
+
+* [/r/cakephp](https://www.reddit.com/r/cakephp/)
+
+
+### Symfony
+
+* [/r/symfony](https://www.reddit.com/r/symfony)
+
+
+### Laravel
+
+* [/r/laravel](https://www.reddit.com/r/laravel/)
+* [/r/learnlaravel](https://www.reddit.com/r/learnlaravel/)
+
+
+### Rails
+
+* [/r/learn_rails](https://www.reddit.com/r/learn_rails)
+* [/r/learnrubyonrails](https://www.reddit.com/r/learnrubyonrails)
+* [/r/rails](https://www.reddit.com/r/rails)
+* [/r/rubyonrails](https://www.reddit.com/r/rubyonrails)
+
+
+### nginx
+
+* [/r/nginx](https://www.reddit.com/r/nginx/)
+
+
+
+## Command Line
+
+* [/r/bash](https://www.reddit.com/r/bash/)
+* [/r/commandline](https://www.reddit.com/r/commandline)
+* [/r/shell](https://www.reddit.com/r/shell/)
+* [/r/zsh](https://www.reddit.com/r/zsh)
+
+
+
+## Computer Science
+
+* [/r/Algorithms](https://www.reddit.com/r/Algorithms)
+* [/r/AskComputerScience](https://www.reddit.com/r/AskComputerScience)
+* [/r/compsci](https://www.reddit.com/r/compsci)
+* [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions)
+* [/r/cseducation](https://www.reddit.com/r/cseducation)
+
+
+
+## Databases
+
+* [/r/Database](https://www.reddit.com/r/Database/)
+* [/r/DatabaseHelp](https://www.reddit.com/r/DatabaseHelp/)
+* [/r/mariadb](https://www.reddit.com/r/mariadb/)
+* [/r/mongodb](https://www.reddit.com/r/mongodb/)
+* [/r/mysql](https://www.reddit.com/r/mysql)
+* [/r/PostgreSQL](https://www.reddit.com/r/PostgreSQL/)
+* [/r/redis](https://www.reddit.com/r/redis/)
+* [/r/SQLServer](https://www.reddit.com/r/SQLServer/)
+
+
+
+## Development ENvironment
+
+### Dotfiles
+
+* [/r/dotfiles](https://www.reddit.com/r/dotfiles/)
+
+
+### Git
+
+* [/r/git](https://www.reddit.com/r/git)
+
+
+### GitHub
+
+* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) -  Sharing Github projects just got easier!
+* [/r/github](https://www.reddit.com/r/github)
+
+
+
+## Front End Development
+
+* [/r/Angular2](https://www.reddit.com/r/Angular2/)
+* [/r/angularjs](https://www.reddit.com/r/angularjs)
+* [/r/css](https://www.reddit.com/r/css)
+* [/r/csshelp](https://www.reddit.com/r/csshelp)
+* [/r/d3js](https://www.reddit.com/r/d3js/)
+* [/r/frontend](https://www.reddit.com/r/frontend)
+* [/r/html5](https://www.reddit.com/r/html5)
+* [/r/jquery](https://www.reddit.com/r/jquery)
+* [/r/MaterialDesign/](https://www.reddit.com/r/MaterialDesign/)
+* [/r/Meteor](https://www.reddit.com/r/Meteor/)
+* [/r/reactjs](https://www.reddit.com/r/reactjs/)
+* [/r/UI_Design](https://www.reddit.com/r/UI_Design)
+* [/r/web_design](https://www.reddit.com/r/web_design)
+* [/r/Web_Development](https://www.reddit.com/r/Web_Development/)
+* [/r/webdev](https://www.reddit.com/r/webdev)
+
+
+
+## Programming
+
+* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
+* [/r/learnprogramming](https://www.reddit.com/r/learnprogramming)
+* [/r/reviewmycode](https://www.reddit.com/r/reviewmycode) - A place where people can submit their code for review by their fellow redditors.
 
 
 
@@ -266,133 +399,6 @@
 
 
 
-## Computer Science
-
-* [/r/Algorithms](https://www.reddit.com/r/Algorithms)
-* [/r/AskComputerScience](https://www.reddit.com/r/AskComputerScience)
-* [/r/compsci](https://www.reddit.com/r/compsci)
-* [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions)
-* [/r/cseducation](https://www.reddit.com/r/cseducation)
-
-
-## Command Line
-
-* [/r/bash](https://www.reddit.com/r/bash/)
-* [/r/commandline](https://www.reddit.com/r/commandline)
-* [/r/shell](https://www.reddit.com/r/shell/)
-* [/r/zsh](https://www.reddit.com/r/zsh)
-
-
-
-## Front End Development
-
-* [/r/Angular2](https://www.reddit.com/r/Angular2/)
-* [/r/angularjs](https://www.reddit.com/r/angularjs)
-* [/r/css](https://www.reddit.com/r/css)
-* [/r/csshelp](https://www.reddit.com/r/csshelp)
-* [/r/d3js](https://www.reddit.com/r/d3js/)
-* [/r/frontend](https://www.reddit.com/r/frontend)
-* [/r/html5](https://www.reddit.com/r/html5)
-* [/r/jquery](https://www.reddit.com/r/jquery)
-* [/r/MaterialDesign/](https://www.reddit.com/r/MaterialDesign/)
-* [/r/Meteor](https://www.reddit.com/r/Meteor/)
-* [/r/reactjs](https://www.reddit.com/r/reactjs/)
-* [/r/UI_Design](https://www.reddit.com/r/UI_Design)
-* [/r/web_design](https://www.reddit.com/r/web_design)
-* [/r/Web_Development](https://www.reddit.com/r/Web_Development/)
-* [/r/webdev](https://www.reddit.com/r/webdev)
-
-
-
-## Back End Development
-
-### Django
-
-* [/r/django](https://www.reddit.com/r/django/)
-* [/r/djangolearning](http://www.reddit.com/r/djangolearning)
-
-
-### Flask
-
-* [/r/flask](https://www.reddit.com/r/flask)
-
-
-### Docker
-
-* [/r/docker](https://www.reddit.com/r/docker)
-
-
-### Vagrant
-
-* [/r/vagrant](https://www.reddit.com/r/vagrant/)
-
-
-### CakePHP
-
-* [/r/cakephp](https://www.reddit.com/r/cakephp/)
-
-
-### Symfony
-
-* [/r/symfony](https://www.reddit.com/r/symfony)
-
-
-### Laravel
-
-* [/r/laravel](https://www.reddit.com/r/laravel/)
-* [/r/learnlaravel](https://www.reddit.com/r/learnlaravel/)
-
-
-### Rails
-
-* [/r/learn_rails](https://www.reddit.com/r/learn_rails)
-* [/r/learnrubyonrails](https://www.reddit.com/r/learnrubyonrails)
-* [/r/rails](https://www.reddit.com/r/rails)
-* [/r/rubyonrails](https://www.reddit.com/r/rubyonrails)
-
-
-### nginx
-
-* [/r/nginx](https://www.reddit.com/r/nginx/)
-
-
-
-
-
-## Programming
-
-* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
-* [/r/learnprogramming](https://www.reddit.com/r/learnprogramming)
-* [/r/reviewmycode](https://www.reddit.com/r/reviewmycode) - A place where people can submit their code for review by their fellow redditors.
-
-
-## Development ENvironment
-
-### Dotfiles
-
-* [/r/dotfiles](https://www.reddit.com/r/dotfiles/)
-
-
-### Git
-
-* [/r/git](https://www.reddit.com/r/git)
-
-
-### GitHub
-
-* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) -  Sharing Github projects just got easier!
-* [/r/github](https://www.reddit.com/r/github)
-
-
-
-## Entertainment
-
-* [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - A subreddit for every over the top, satirical, embarrassing, or downright, flat-out incorrect usage of Technology found in Movies, TV Shows, and Video Games!
-* [/r/linuxmemes](https://www.reddit.com/r/linuxmemes)
-* [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Not everybody understands the humor of programmers.
-
-
-
 ## Miscellaneous
 
 ### Browser
@@ -405,6 +411,12 @@
 * [/r/operabrowser/](https://www.reddit.com/r/operabrowser/)
 * [/r/safari](https://www.reddit.com/r/safari)
 
+
+### Entertainment
+
+* [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - A subreddit for every over the top, satirical, embarrassing, or downright, flat-out incorrect usage of Technology found in Movies, TV Shows, and Video Games!
+* [/r/linuxmemes](https://www.reddit.com/r/linuxmemes)
+* [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Not everybody understands the humor of programmers.
 
 
 
