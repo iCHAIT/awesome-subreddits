@@ -31,7 +31,6 @@
     - [Rust]()
     - [Scala]()
     - [Swift]()
-
 - [Command Line](#command-line-utilities)
 - [Front End Developemnt](#command-line-utilities)
 - [Back End Developemnt](#command-line-utilities)
@@ -209,6 +208,8 @@
 
 * [/r/commandline](https://www.reddit.com/r/commandline)
 * [/r/bash/](https://www.reddit.com/r/bash/)
+* [/r/shell/](https://www.reddit.com/r/shell/)
+* [/r/zsh](https://www.reddit.com/r/zsh)
 
 
 ## Front End Development
@@ -262,8 +263,6 @@
 * [/r/nginx/](https://www.reddit.com/r/nginx/)
 
 
-
-
 ## CS Careers
 
 
@@ -276,31 +275,83 @@
 
 
 ### Node.js
+
+* [/r/node/](https://www.reddit.com/r/node/)
+* [/r/npm](https://www.reddit.com/r/npm)
+
 ### iOS
+
+* [/r/ios/](https://www.reddit.com/r/ios/)
+* [/r/iOSProgramming](https://www.reddit.com/r/iOSProgramming)
+* [/r/iOSBeta](https://www.reddit.com/r/iOSBeta)
+
 ### Android
+
+* [/r/Android/](https://www.reddit.com/r/Android/)
+
+
+
 ### IoT & Hybrid Apps
+
+* [/r/IOT/](https://www.reddit.com/r/IOT/)
+* [/r/internetofthings/](https://www.reddit.com/r/internetofthings/)
+
+
 ### Electron
-### Cordova
+
+
 ### Linux
+
+* [/r/linux/](https://www.reddit.com/r/linux/)
+* [/r/linuxquestions](https://www.reddit.com/r/linuxquestions)
+* [/r/linux4noobs](https://www.reddit.com/r/linux4noobs)
+* [/r/linuxmemes](https://www.reddit.com/r/linuxmemes)
+
 ### OS X
+
+* [/r/osx/](https://www.reddit.com/r/osx/)
+* [/r/osxterminal/](https://www.reddit.com/r/osxterminal/)
+* [/r/OSXTweaks/](https://www.reddit.com/r/OSXTweaks/)
+* [/r/mac/](https://www.reddit.com/r/mac/)
+* [/r/macapps/](https://www.reddit.com/r/macapps/)
+* [/r/MacSetups](https://www.reddit.com/r/MacSetups)
+
 ### watchOS
-### JVM
+
+* [/r/watchOSBeta](https://www.reddit.com/r/watchOSBeta)
+* [/r/applewatch](https://www.reddit.com/r/applewatch)
+
 ### Amazon Web Services
+
+* [/r/aws](https://www.reddit.com/r/aws)
+
+
 ### Windows
+
+* [/r/windows](https://www.reddit.com/r/windows)
+* [/r/windows8/](https://www.reddit.com/r/windows8/)
+* [/r/Windows10/](https://www.reddit.com/r/Windows10/)
+
 ### Heroku
 
+* [/r/Heroku/](https://www.reddit.com/r/Heroku/)
 
 
 ## Programming
+
+* [/r/learnprogramming](https://www.reddit.com/r/learnprogramming)
+* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
 
 
 ## Development ENvironment
 
 
-### Quick Look Plugins
-### Dev Env
+<!-- ### Dev Env -->
+
 ### Dotfiles
-### Shell
+
+* [/r/dotfiles/](https://www.reddit.com/r/dotfiles/)
+
 ### Command-Line Apps
 ### ZSH Plugins
 ### GitHub
