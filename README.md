@@ -207,6 +207,8 @@
 
 ## Command Line
 
+* [/r/commandline](https://www.reddit.com/r/commandline)
+* [/r/bash/](https://www.reddit.com/r/bash/)
 
 
 ## Front End Development
@@ -218,32 +220,46 @@
 
 ### Django
 
+* [/r/django/](https://www.reddit.com/r/django/)
+* [/r/djangolearning](http://www.reddit.com/r/djangolearning)
 
 ### Flask
 
+* [/r/flask](https://www.reddit.com/r/flask)
 
 ### Docker
+
+* [/r/docker](https://www.reddit.com/r/docker)
 
 
 ### Vagrant
 
-### Pyramid
+* [/r/vagrant/](https://www.reddit.com/r/vagrant/)
 
-
-### Play1 Framework
 
 ### CakePHP
 
+* [/r/cakephp/](https://www.reddit.com/r/cakephp/)
 
 ### Symfony
 
+* [/r/symfony](https://www.reddit.com/r/symfony)
+
 ### Laravel
+
+* [/r/laravel/](https://www.reddit.com/r/laravel/)
+* [/r/learnlaravel/](https://www.reddit.com/r/learnlaravel/)
 
 ### Rails
 
+* [/r/rails](https://www.reddit.com/r/rails)
+* [/r/rubyonrails](https://www.reddit.com/r/rubyonrails)
+* [/r/learn_rails](https://www.reddit.com/r/learn_rails)
+* [/r/learnrubyonrails](https://www.reddit.com/r/learnrubyonrails)
+
 ### nginx
 
-- [Kubernetes]()
+* [/r/nginx/](https://www.reddit.com/r/nginx/)
 
 
 
