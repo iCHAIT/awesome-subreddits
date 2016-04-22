@@ -14,13 +14,11 @@
     - [Rails](#rails)
     - [Symfony](#symfony)
     - [Vagrant](#vagrant)
+- [Browser](#browser)
 - [Command Line](#command-line)
 - [Computer Science](#computer-science)
 - [Databases](#databases)
-- [Development Environment](#development-environment)
-    - [Dotfiles](#dotfiles)
-    - [Git](#git)
-    - [GitHub](#github)
+- [Entertainment](#entertainment)
 - [Front End Developemnt](#front-end-development)
 - [Programming](#programming)
 - [Programming Languages](#programming-languages)
@@ -119,10 +117,23 @@
 
 
 
+## Browser
+
+* [/r/chrome/](https://www.reddit.com/r/chrome/)
+* [/r/chrome_extensions](https://www.reddit.com/r/chrome_extensions)
+* [/r/Firefox](https://www.reddit.com/r/Firefox)
+* [/r/FireFoxAddons](https://www.reddit.com/r/FireFoxAddons)
+* [/r/browsers](https://www.reddit.com/r/browsers)
+* [/r/operabrowser/](https://www.reddit.com/r/operabrowser/)
+* [/r/safari](https://www.reddit.com/r/safari)
+
+
+
 ## Command Line
 
 * [/r/bash](https://www.reddit.com/r/bash/)
 * [/r/commandline](https://www.reddit.com/r/commandline)
+* [/r/fishshell](https://www.reddit.com/r/fishshell/)
 * [/r/shell](https://www.reddit.com/r/shell/)
 * [/r/zsh](https://www.reddit.com/r/zsh)
 
@@ -135,6 +146,8 @@
 * [/r/compsci](https://www.reddit.com/r/compsci)
 * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions)
 * [/r/cseducation](https://www.reddit.com/r/cseducation)
+* [/r/computerscience](https://www.reddit.com/r/computerscience)
+* [/r/AskCompSci](https://www.reddit.com/r/AskCompSci)
 
 
 
@@ -151,22 +164,13 @@
 
 
 
-## Development ENvironment
+### Entertainment
 
-### Dotfiles
-
-* [/r/dotfiles](https://www.reddit.com/r/dotfiles/)
-
-
-### Git
-
-* [/r/git](https://www.reddit.com/r/git)
-
-
-### GitHub
-
-* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) -  Sharing Github projects just got easier!
-* [/r/github](https://www.reddit.com/r/github)
+* [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - A subreddit for every over the top, satirical, embarrassing, or downright, flat-out incorrect usage of Technology found in Movies, TV Shows, and Video Games!
+* [/r/linuxmemes](https://www.reddit.com/r/linuxmemes)
+* [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Not everybody understands the humor of programmers.
+* [/r/programmerreactions](https://www.reddit.com/r/programmerreactions) - Expressing the life of programmers through reaction images.
+* [/r/softwaregore](https://www.reddit.com/r/softwaregore) - A collection of things that users shouldn't see.
 
 
 
@@ -180,7 +184,7 @@
 * [/r/frontend](https://www.reddit.com/r/frontend)
 * [/r/html5](https://www.reddit.com/r/html5)
 * [/r/jquery](https://www.reddit.com/r/jquery)
-* [/r/MaterialDesign/](https://www.reddit.com/r/MaterialDesign/)
+* [/r/MaterialDesign](https://www.reddit.com/r/MaterialDesign/)
 * [/r/Meteor](https://www.reddit.com/r/Meteor/)
 * [/r/reactjs](https://www.reddit.com/r/reactjs/)
 * [/r/UI_Design](https://www.reddit.com/r/UI_Design)
@@ -195,6 +199,7 @@
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
 * [/r/learnprogramming](https://www.reddit.com/r/learnprogramming)
 * [/r/reviewmycode](https://www.reddit.com/r/reviewmycode) - A place where people can submit their code for review by their fellow redditors.
+* [/r/coding](https://www.reddit.com/r/coding)
 
 
 
@@ -401,22 +406,12 @@
 
 ## Miscellaneous
 
-### Browser
-
-* [/r/chrome/](https://www.reddit.com/r/chrome/)
-* [/r/chrome_extensions](https://www.reddit.com/r/chrome_extensions)
-* [/r/Firefox](https://www.reddit.com/r/Firefox)
-* [/r/FireFoxAddons](https://www.reddit.com/r/FireFoxAddons)
-* [/r/browsers](https://www.reddit.com/r/browsers)
-* [/r/operabrowser/](https://www.reddit.com/r/operabrowser/)
-* [/r/safari](https://www.reddit.com/r/safari)
-
-
-### Entertainment
-
-* [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - A subreddit for every over the top, satirical, embarrassing, or downright, flat-out incorrect usage of Technology found in Movies, TV Shows, and Video Games!
-* [/r/linuxmemes](https://www.reddit.com/r/linuxmemes)
-* [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Not everybody understands the humor of programmers.
+* [/r/softwaredevelopment](https://www.reddit.com/r/softwaredevelopment)
+* [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful)
+* [/r/dotfiles](https://www.reddit.com/r/dotfiles/)
+* [/r/git](https://www.reddit.com/r/git)
+* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) -  Sharing Github projects just got easier!
+* [/r/github](https://www.reddit.com/r/github)
 
 
 
