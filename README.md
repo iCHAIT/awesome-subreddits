@@ -5,43 +5,32 @@
 ## Table of Contents
 
 - [Programming Languages]()
-    - [JavaScript]()
-    - [Swift]()
-    - [Python]()
-    - [Rust]()
-    - [Haskell]()
-    <!-- - [PureScript]() -->
-    - [Go]()
-    - [Scala]()
-    - [Ruby]()
+    - [.NET]()
+    - [AutoHotkey]()
+    - [C++]()
+    - [C]()
     - [Clojure]()
     - [ClojureScript]()
+    - [Dart]()
     - [Elixir]()
     - [Elm]()
     - [Erlang]()
-    - [Julia]()
-    - [Lua]()
-    - [C]()
-    - [C++]()
-    <!-- - [R]() -->
-    <!-- - [D]() -->
-    <!-- - [Common Lisp]() -->
-    - [Perl]()
+    - [Fortran]()
+    - [Go]()
     - [Groovy]()
-    - [Dart]()
+    - [Haskell]()
     - [Java]()
+    - [JavaScript]()
+    - [Julia]()
     - [Kotlin]()
-    <!-- - [OCaml]() -->
-    <!-- - [Coldfusion]() -->
-    <!-- - [Fortran]() -->
-    - [.NET]()
+    - [Lua]()
+    - [Perl]()
     - [PHP]()
-    <!-- - [Delphi]() -->
-    <!-- - [Assembler]() -->
-    - [AutoHotkey]()
-    <!-- - [AutoIt]() -->
-    <!-- - [Crystal]() -->
-    <!-- - [TypeScript]() -->
+    - [Python]()
+    - [Ruby]()
+    - [Rust]()
+    - [Scala]()
+    - [Swift]()
 
 - [Command Line](#command-line-utilities)
 - [Front End Developemnt](#command-line-utilities)
@@ -97,73 +86,123 @@
 
 ## Programming Languages
 
-### JavaScript
-
-### Swift
-
-
-### Python
-
-
-### Rust
-
-
-
-### Haskell
-
-
-
-### Go
-
-
-
-### Scala
-
-
-
-### Ruby
-
-
-### Clojure
-
-
-
-### Elixir
-
-### Erlang
-
-
-### Julia
-
-
-
-### Lua
-
-
-### C
-
-
-
-### C++
-
-### Perl
-
-
-### Groovy
-
-
-### Dart
-
-### Java
 
 ### .NET
 
-
-### PHP
+* [/r/dotnet/](https://www.reddit.com/r/dotnet/) - 
 
 ### AutoHotkey
 
 
+
+### C
+
+* [/r/C_Programming/](https://www.reddit.com/r/C_Programming/)
+* [/r/c_language/](https://www.reddit.com/r/c_language/)
+* [/r/cprogramming/](https://www.reddit.com/r/cprogramming/)
+
+
+### C++
+
+* [/r/cpp](https://www.reddit.com/r/cpp)
+* [/r/cplusplus](https://www.reddit.com/r/cplusplus)
+
+
+### C#
+
+* [/r/csharp/](https://www.reddit.com/r/csharp)
+
+
+
+### Clojure
+
+* [/r/Clojure/](https://www.reddit.com/r/Clojure/)
+
+
+### Dart
+
+* [/r/dartlang/](https://www.reddit.com/r/dartlang/)
+
+
+### Elixir
+
+* [/r/elixir/](https://www.reddit.com/r/elixir/)
+
+
+### Erlang
+
+* [/r/erlang](https://www.reddit.com/r/erlang)
+
+### Go
+
+* [/r/golang](https://www.reddit.com/r/golang)
+
+### Groovy
+
+* [/r/groovy](https://www.reddit.com/r/groovy)
+
+### Haskell
+
+* [/r/haskell](https://www.reddit.com/r/haskell)
+* [/r/haskellquestions](https://www.reddit.com/r/haskellquestions)
+* [/r/haskelltil/](https://www.reddit.com/r/haskelltil/)
+
+
+### Java
+
+* [/r/java](https://www.reddit.com/r/java)
+* [/r/learnjava](https://www.reddit.com/r/learnjava)
+* [/r/javahelp/](https://www.reddit.com/r/javahelp/)
+
+### JavaScript
+
+* [/r/javascript/](https://www.reddit.com/r/javascript/)
+* [/r/LearnJavascript](https://www.reddit.com/r/LearnJavascript)
+
+
+### Julia
+
+* [/r/Julia/](https://www.reddit.com/r/Julia/)
+
+### Lua
+
+* [/r/lua/](https://www.reddit.com/r/lua/)
+
+### Perl
+
+* [/r/perl](https://www.reddit.com/r/perl)
+
+
+### PHP
+
+* [/r/php](https://www.reddit.com/r/php)
+* [/r/phphelp](https://www.reddit.com/r/phphelp)
+* [/r/learnphp/](https://www.reddit.com/r/learnphp/)
+
+### Python
+
+* [/r/Python/](https://www.reddit.com/r/Python/)
+* [/r/learnpython](https://www.reddit.com/r/learnpython)
+* [/r/pythoncoding](https://www.reddit.com/r/pythoncoding)
+
+
+### Ruby
+
+* [/r/ruby](https://www.reddit.com/r/ruby)
+* [/r/learnruby/](https://www.reddit.com/r/learnruby/)
+
+
+### Rust
+
+* [/r/rust/](https://www.reddit.com/r/rust/)
+
+### Scala
+
+* [/r/scala](https://www.reddit.com/r/scala)
+
+### Swift
+
+* [/r/swift/](https://www.reddit.com/r/swift/)
 
 
 ## Command Line
