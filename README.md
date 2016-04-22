@@ -83,12 +83,14 @@
 - [Contribute](#contribute)
 
 
+
 ## Programming Languages
 
 
 ### .NET
 
 * [/r/dotnet/](https://www.reddit.com/r/dotnet/) - 
+
 
 ### AutoHotkey
 
@@ -112,7 +114,6 @@
 * [/r/csharp/](https://www.reddit.com/r/csharp)
 
 
-
 ### Clojure
 
 * [/r/Clojure/](https://www.reddit.com/r/Clojure/)
@@ -132,13 +133,16 @@
 
 * [/r/erlang](https://www.reddit.com/r/erlang)
 
+
 ### Go
 
 * [/r/golang](https://www.reddit.com/r/golang)
 
+
 ### Groovy
 
 * [/r/groovy](https://www.reddit.com/r/groovy)
+
 
 ### Haskell
 
@@ -153,6 +157,7 @@
 * [/r/learnjava](https://www.reddit.com/r/learnjava)
 * [/r/javahelp/](https://www.reddit.com/r/javahelp/)
 
+
 ### JavaScript
 
 * [/r/javascript/](https://www.reddit.com/r/javascript/)
@@ -163,9 +168,11 @@
 
 * [/r/Julia/](https://www.reddit.com/r/Julia/)
 
+
 ### Lua
 
 * [/r/lua/](https://www.reddit.com/r/lua/)
+
 
 ### Perl
 
@@ -177,6 +184,7 @@
 * [/r/php](https://www.reddit.com/r/php)
 * [/r/phphelp](https://www.reddit.com/r/phphelp)
 * [/r/learnphp/](https://www.reddit.com/r/learnphp/)
+
 
 ### Python
 
@@ -195,9 +203,11 @@
 
 * [/r/rust/](https://www.reddit.com/r/rust/)
 
+
 ### Scala
 
 * [/r/scala](https://www.reddit.com/r/scala)
+
 
 ### Swift
 
@@ -216,7 +226,21 @@
 
 
 
+
+
+
+
+
+
+
 ## Back End Development
+
+
+
+
+
+
+
 
 
 ### Django
@@ -224,9 +248,11 @@
 * [/r/django/](https://www.reddit.com/r/django/)
 * [/r/djangolearning](http://www.reddit.com/r/djangolearning)
 
+
 ### Flask
 
 * [/r/flask](https://www.reddit.com/r/flask)
+
 
 ### Docker
 
@@ -242,14 +268,17 @@
 
 * [/r/cakephp/](https://www.reddit.com/r/cakephp/)
 
+
 ### Symfony
 
 * [/r/symfony](https://www.reddit.com/r/symfony)
+
 
 ### Laravel
 
 * [/r/laravel/](https://www.reddit.com/r/laravel/)
 * [/r/learnlaravel/](https://www.reddit.com/r/learnlaravel/)
+
 
 ### Rails
 
@@ -257,6 +286,7 @@
 * [/r/rubyonrails](https://www.reddit.com/r/rubyonrails)
 * [/r/learn_rails](https://www.reddit.com/r/learn_rails)
 * [/r/learnrubyonrails](https://www.reddit.com/r/learnrubyonrails)
+
 
 ### nginx
 
@@ -279,16 +309,17 @@
 * [/r/node/](https://www.reddit.com/r/node/)
 * [/r/npm](https://www.reddit.com/r/npm)
 
+
 ### iOS
 
 * [/r/ios/](https://www.reddit.com/r/ios/)
 * [/r/iOSProgramming](https://www.reddit.com/r/iOSProgramming)
 * [/r/iOSBeta](https://www.reddit.com/r/iOSBeta)
 
+
 ### Android
 
 * [/r/Android/](https://www.reddit.com/r/Android/)
-
 
 
 ### IoT & Hybrid Apps
@@ -307,6 +338,7 @@
 * [/r/linux4noobs](https://www.reddit.com/r/linux4noobs)
 * [/r/linuxmemes](https://www.reddit.com/r/linuxmemes)
 
+
 ### OS X
 
 * [/r/osx/](https://www.reddit.com/r/osx/)
@@ -316,10 +348,12 @@
 * [/r/macapps/](https://www.reddit.com/r/macapps/)
 * [/r/MacSetups](https://www.reddit.com/r/MacSetups)
 
+
 ### watchOS
 
 * [/r/watchOSBeta](https://www.reddit.com/r/watchOSBeta)
 * [/r/applewatch](https://www.reddit.com/r/applewatch)
+
 
 ### Amazon Web Services
 
@@ -331,6 +365,7 @@
 * [/r/windows](https://www.reddit.com/r/windows)
 * [/r/windows8/](https://www.reddit.com/r/windows8/)
 * [/r/Windows10/](https://www.reddit.com/r/Windows10/)
+
 
 ### Heroku
 
@@ -346,21 +381,28 @@
 ## Development ENvironment
 
 
-<!-- ### Dev Env -->
-
 ### Dotfiles
 
 * [/r/dotfiles/](https://www.reddit.com/r/dotfiles/)
 
-### Command-Line Apps
-### ZSH Plugins
+
 ### GitHub
+
+* [/r/github](https://www.reddit.com/r/github)
+* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) -  Sharing Github projects just got easier!
+
+
 ### Browser Extensions
-### Git Cheat Sheet & Git Flow
-### Git Tips
-### Git Add-ons
-### SSH
-### FOSS for Developers
+
+* [/r/FireFoxAddons](https://www.reddit.com/r/FireFoxAddons)
+* [/r/Firefox](https://www.reddit.com/r/Firefox)
+* [/r/chrome_extensions](https://www.reddit.com/r/chrome_extensions)
+* [/r/Chrome](https://www.reddit.com/r/Chrome)
+
+
+### Git
+
+* [/r/git](https://www.reddit.com/r/git)
 
 
 
@@ -368,7 +410,6 @@
 
 * [/r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/) - Not everybody understands the humor of programmers.
 * [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - A subreddit for every over the top, satirical, embarrassing, or downright, flat-out incorrect usage of Technology found in Movies, TV Shows, and Video Games!
-* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) -  Sharing Github projects just got easier!
 
 
 
@@ -377,6 +418,7 @@
 Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
 
 **[Back to top](#table-of-contents)**
+
 
 
 ## License
