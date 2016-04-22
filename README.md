@@ -4,11 +4,30 @@
 
 ## Table of Contents
 
+- [Back End Developemnt](#back-end-development)
+    - [CakePHP](#cakephp)
+    - [Django](#django)
+    - [Docker](#docker)
+    - [Flask](#flask)
+    - [Laravel](#laravel)
+    - [nginx](#nginx)
+    - [Rails](#rails)
+    - [Symfony](#symfony)
+    - [Vagrant](#vagrant)
+- [Command Line](#command-line)
+- [Computer Science](#computer-science)
+- [Databases](#databases)
+- [Development Environment](#development-environment)
+    - [Dotfiles](#dotfiles)
+    - [Git](#git)
+    - [GitHub](#github)
+- [Front End Developemnt](#front-end-development)
+- [Programming](#programming)
 - [Programming Languages](#programming-languages)
     - [.NET](#net)
     - [AutoHotkey](#autohotkey)
-    - [C#]()
     - [C++](#c-1)
+    - [C-sharp]()
     - [C](#c-2)
     - [Clojure](#clojure)
     - [Dart](#dart)
@@ -34,33 +53,14 @@
     - [Heroku](#heroku)
     - [iOS](#ios)
     - [IoT](#iot)
-    - [JVM]()
     - [Linux](#linux)
     - [Node.js](#nodejs)
     - [OS X](#osx)
     - [watchOS](#watchos)
     - [Windows](#windows)
-- [Computer Science](#computer-science)
-- [Command Line](#command-line)
-- [Front End Developemnt](#front-end-development)
-- [Back End Developemnt](#back-end-development)
-    - [CakePHP](#cakephp)
-    - [Django](#django)
-    - [Docker](#docker)
-    - [Flask](#flask)
-    - [Laravel](#laravel)
-    - [nginx](#nginx)
-    - [Rails](#rails)
-    - [Symfony](#symfony)
-    - [Vagrant](#vagrant)
-- [Programming](#programming)
-- [Databases](#databases)
-- [Development Environment](#development-environment)
-    - [Browser](#browser)
-    - [Dotfiles](#dotfiles)
-    - [Git](#git)
-    - [GitHub](#github)
+- [Entertainment](#entertainment)
 - [Miscellaneous](#miscellaneous)
+    - [Browser](#browser)
 - [Contribute](#contribute)
 
 
@@ -78,15 +78,15 @@
 * [/r/AutoHotkey](https://www.reddit.com/r/AutoHotkey/)
 
 
-### C#
-
-* [/r/csharp](https://www.reddit.com/r/csharp)
-
-
 ### C++
 
 * [/r/cpp](https://www.reddit.com/r/cpp)
 * [/r/cplusplus](https://www.reddit.com/r/cplusplus)
+
+
+### C-sharp
+
+* [/r/csharp](https://www.reddit.com/r/csharp)
 
 
 ### C
@@ -196,6 +196,76 @@
 * [/r/swift](https://www.reddit.com/r/swift/)
 
 
+
+## Platforms
+
+### Amazon Web Services
+
+* [/r/aws](https://www.reddit.com/r/aws)
+
+
+### Android
+
+* [/r/Android](https://www.reddit.com/r/Android/)
+* [/r/androidthemes](https://www.reddit.com/r/androidthemes)
+* [/r/androiddesign](https://www.reddit.com/r/androiddesign)
+
+### Heroku
+
+* [/r/Heroku/](https://www.reddit.com/r/Heroku/)
+
+
+### iOS
+
+* [/r/ios](https://www.reddit.com/r/ios/)
+* [/r/iOSBeta](https://www.reddit.com/r/iOSBeta)
+* [/r/iOSProgramming](https://www.reddit.com/r/iOSProgramming)
+
+
+### IoT
+
+* [/r/internetofthings](https://www.reddit.com/r/internetofthings/)
+* [/r/IOT](https://www.reddit.com/r/IOT/)
+
+
+### Linux
+
+* [/r/linux](https://www.reddit.com/r/linux/)
+* [/r/linux4noobs](https://www.reddit.com/r/linux4noobs)
+* [/r/linuxquestions](https://www.reddit.com/r/linuxquestions)
+
+
+### Node.js
+
+* [/r/node](https://www.reddit.com/r/node/)
+* [/r/npm](https://www.reddit.com/r/npm)
+
+
+### OS X
+
+* [/r/mac](https://www.reddit.com/r/mac/)
+* [/r/macapps](https://www.reddit.com/r/macapps/)
+* [/r/MacSetups](https://www.reddit.com/r/MacSetups)
+* [/r/osx](https://www.reddit.com/r/osx/)
+* [/r/osxterminal](https://www.reddit.com/r/osxterminal/)
+* [/r/OSXTweaks](https://www.reddit.com/r/OSXTweaks/)
+
+
+### watchOS
+
+* [/r/applewatch](https://www.reddit.com/r/applewatch)
+* [/r/watchOSBeta](https://www.reddit.com/r/watchOSBeta)
+
+
+### Windows
+
+* [/r/windows](https://www.reddit.com/r/windows)
+* [/r/windows8](https://www.reddit.com/r/windows8/)
+* [/r/Windows10](https://www.reddit.com/r/Windows10/)
+* [/r/windowsinsiders](https://www.reddit.com/r/windowsinsiders)
+
+
+
 ## Computer Science
 
 * [/r/Algorithms](https://www.reddit.com/r/Algorithms)
@@ -216,13 +286,25 @@
 
 ## Front End Development
 
+* [/r/Angular2](https://www.reddit.com/r/Angular2/)
+* [/r/angularjs](https://www.reddit.com/r/angularjs)
+* [/r/css](https://www.reddit.com/r/css)
+* [/r/csshelp](https://www.reddit.com/r/csshelp)
+* [/r/d3js](https://www.reddit.com/r/d3js/)
+* [/r/frontend](https://www.reddit.com/r/frontend)
+* [/r/html5](https://www.reddit.com/r/html5)
+* [/r/jquery](https://www.reddit.com/r/jquery)
+* [/r/MaterialDesign/](https://www.reddit.com/r/MaterialDesign/)
+* [/r/Meteor](https://www.reddit.com/r/Meteor/)
+* [/r/reactjs](https://www.reddit.com/r/reactjs/)
+* [/r/UI_Design](https://www.reddit.com/r/UI_Design)
 * [/r/web_design](https://www.reddit.com/r/web_design)
+* [/r/Web_Development](https://www.reddit.com/r/Web_Development/)
 * [/r/webdev](https://www.reddit.com/r/webdev)
 
 
 
 ## Back End Development
-
 
 ### Django
 
@@ -275,75 +357,6 @@
 
 
 
-## Platforms
-
-
-### Node.js
-
-* [/r/node](https://www.reddit.com/r/node/)
-* [/r/npm](https://www.reddit.com/r/npm)
-
-
-### iOS
-
-* [/r/ios](https://www.reddit.com/r/ios/)
-* [/r/iOSBeta](https://www.reddit.com/r/iOSBeta)
-* [/r/iOSProgramming](https://www.reddit.com/r/iOSProgramming)
-
-
-### Android
-
-* [/r/Android](https://www.reddit.com/r/Android/)
-
-
-### IoT & Hybrid Apps
-
-* [/r/internetofthings](https://www.reddit.com/r/internetofthings/)
-* [/r/IOT](https://www.reddit.com/r/IOT/)
-
-
-### Electron
-
-
-### Linux
-
-* [/r/linux](https://www.reddit.com/r/linux/)
-* [/r/linux4noobs](https://www.reddit.com/r/linux4noobs)
-* [/r/linuxquestions](https://www.reddit.com/r/linuxquestions)
-
-
-### OS X
-
-* [/r/mac](https://www.reddit.com/r/mac/)
-* [/r/macapps](https://www.reddit.com/r/macapps/)
-* [/r/MacSetups](https://www.reddit.com/r/MacSetups)
-* [/r/osx](https://www.reddit.com/r/osx/)
-* [/r/osxterminal](https://www.reddit.com/r/osxterminal/)
-* [/r/OSXTweaks](https://www.reddit.com/r/OSXTweaks/)
-
-
-### watchOS
-
-* [/r/applewatch](https://www.reddit.com/r/applewatch)
-* [/r/watchOSBeta](https://www.reddit.com/r/watchOSBeta)
-
-
-### Amazon Web Services
-
-* [/r/aws](https://www.reddit.com/r/aws)
-
-
-### Windows
-
-* [/r/windows](https://www.reddit.com/r/windows)
-* [/r/windows8](https://www.reddit.com/r/windows8/)
-* [/r/Windows10](https://www.reddit.com/r/Windows10/)
-* [/r/windowsinsiders](https://www.reddit.com/r/windowsinsiders)
-
-
-### Heroku
-
-* [/r/Heroku/](https://www.reddit.com/r/Heroku/)
 
 
 ## Programming
@@ -354,15 +367,6 @@
 
 
 ## Development ENvironment
-
-
-### Browser
-
-* [/r/Chrome](https://www.reddit.com/r/Chrome)
-* [/r/chrome_extensions](https://www.reddit.com/r/chrome_extensions)
-* [/r/Firefox](https://www.reddit.com/r/Firefox)
-* [/r/FireFoxAddons](https://www.reddit.com/r/FireFoxAddons)
-
 
 ### Dotfiles
 
@@ -386,6 +390,21 @@
 * [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - A subreddit for every over the top, satirical, embarrassing, or downright, flat-out incorrect usage of Technology found in Movies, TV Shows, and Video Games!
 * [/r/linuxmemes](https://www.reddit.com/r/linuxmemes)
 * [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Not everybody understands the humor of programmers.
+
+
+
+## Miscellaneous
+
+### Browser
+
+* [/r/chrome/](https://www.reddit.com/r/chrome/)
+* [/r/chrome_extensions](https://www.reddit.com/r/chrome_extensions)
+* [/r/Firefox](https://www.reddit.com/r/Firefox)
+* [/r/FireFoxAddons](https://www.reddit.com/r/FireFoxAddons)
+* [/r/browsers](https://www.reddit.com/r/browsers)
+* [/r/operabrowser/](https://www.reddit.com/r/operabrowser/)
+* [/r/safari](https://www.reddit.com/r/safari)
+
 
 
 
