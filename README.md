@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Programming Languages]()
-    - [.NET]()
+    - [.NET](#net)
     - [AutoHotkey]()
     - [C++]()
     - [C]()
@@ -31,25 +31,24 @@
     - [Rust]()
     - [Scala]()
     - [Swift]()
-- [Command Line](#command-line-utilities)
-- [Front End Developemnt](#command-line-utilities)
-- [Back End Developemnt](#command-line-utilities)
-    - [Django]
-    - [Flask]
-    - [Docker]
-    - [Vagrant]
-    - [Pyramid]
-    - [Play1 Framework]
-    - [CakePHP]
-    - [Symfony]
-    - [Laravel]
-    - [Rails]
-    - [nginx]
-- [CS Careers](#os-x-utilities)
-- [Resume](#setup)
-- [Programming](#security)
-- [Databases](#security)
-- [Development Environment](#security)
+- [Computer Science]()
+- [Command Line]()
+- [Front End Developemnt]()
+- [Back End Developemnt]()
+    - [Django]()
+    - [Flask]()
+    - [Docker]()
+    - [Vagrant]()
+    - [Pyramid]()
+    - [CakePHP]()
+    - [Symfony]()
+    - [Laravel]()
+    - [Rails]()
+    - [nginx]()
+- [Resume]()
+- [Programming]()
+- [Databases]()
+- [Development Environment]()
     - [Quick Look Plugins]()
     - [Dev Env]()
     - [Dotfiles]()
@@ -63,23 +62,22 @@
     - [Git Add-ons]()
     - [SSH]()
     - [FOSS for Developers]()
-- [Platforms](#security)
-    - [Node.js]
-    - [iOS]
-    - [Android]
-    - [IoT & Hybrid Apps]
-    - [Electron]
-    - [Cordova]
-    - [Linux]
-    - [OS X]
-    - [watchOS]
-    - [JVM]
-    - [Amazon Web Services]
-    - [Windows]
-    - [Heroku]
-- [Computer Science](#security)
+- [Platforms]()
+    - [Node.js]()
+    - [iOS]()
+    - [Android]()
+    - [IoT & Hybrid Apps]()
+    - [Electron]()
+    - [Cordova]()
+    - [Linux]()
+    - [OS X]()
+    - [watchOS]()
+    - [JVM]()
+    - [Amazon Web Services]()
+    - [Windows]()
+    - [Heroku]()
+- [Computer Science]()
 - [Miscellaneous](#miscellaneous)
-<!-- - [Discussion Forums](#discussion-forums) -->
 - [Contribute](#contribute)
 
 
@@ -214,6 +212,15 @@
 * [/r/swift/](https://www.reddit.com/r/swift/)
 
 
+## Computer Science
+
+* [/r/Algorithms](https://www.reddit.com/r/Algorithms)
+* [/r/AskComputerScience](https://www.reddit.com/r/AskComputerScience)
+* [/r/compsci](https://www.reddit.com/r/compsci)
+* [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions)
+* [/r/cseducation](https://www.reddit.com/r/cseducation)
+
+
 ## Command Line
 
 * [/r/commandline](https://www.reddit.com/r/commandline)
@@ -222,7 +229,12 @@
 * [/r/zsh](https://www.reddit.com/r/zsh)
 
 
+
 ## Front End Development
+
+* [/r/web_design](https://www.reddit.com/r/web_design)
+* [/r/webdev](https://www.reddit.com/r/webdev)
+
 
 
 
@@ -234,13 +246,6 @@
 
 
 ## Back End Development
-
-
-
-
-
-
-
 
 
 ### Django
@@ -292,13 +297,6 @@
 
 * [/r/nginx/](https://www.reddit.com/r/nginx/)
 
-
-## CS Careers
-
-
-
-
-## Resume
 
 
 ## Platforms
@@ -365,6 +363,7 @@
 * [/r/windows](https://www.reddit.com/r/windows)
 * [/r/windows8/](https://www.reddit.com/r/windows8/)
 * [/r/Windows10/](https://www.reddit.com/r/Windows10/)
+* [/r/windowsinsiders](https://www.reddit.com/r/windowsinsiders)
 
 
 ### Heroku
@@ -376,6 +375,7 @@
 
 * [/r/learnprogramming](https://www.reddit.com/r/learnprogramming)
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
+* [/r/reviewmycode](https://www.reddit.com/r/reviewmycode) - A place where people can submit their code for review by their fellow redditors.
 
 
 ## Development ENvironment
