@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Back End Developemnt](#back-end-development)
+- [Back End Developmnt](#back-end-development)
     - [CakePHP](#cakephp)
     - [Django](#django)
     - [Docker](#docker)
@@ -19,7 +19,7 @@
 - [Computer Science](#computer-science)
 - [Databases](#databases)
 - [Entertainment](#entertainment)
-- [Front End Developemnt](#front-end-development)
+- [Front End Developmnt](#front-end-development)
 - [Programming](#programming)
 - [Programming Languages](#programming-languages)
     - [.NET](#net)
@@ -117,12 +117,12 @@
 
 ## Browser
 
-* [/r/chrome/](https://www.reddit.com/r/chrome/)
+* [/r/chrome](https://www.reddit.com/r/chrome/)
 * [/r/chrome_extensions](https://www.reddit.com/r/chrome_extensions)
 * [/r/Firefox](https://www.reddit.com/r/Firefox)
 * [/r/FireFoxAddons](https://www.reddit.com/r/FireFoxAddons)
 * [/r/browsers](https://www.reddit.com/r/browsers)
-* [/r/operabrowser/](https://www.reddit.com/r/operabrowser/)
+* [/r/operabrowser](https://www.reddit.com/r/operabrowser/)
 * [/r/safari](https://www.reddit.com/r/safari)
 
 
@@ -164,8 +164,8 @@
 
 ### Entertainment
 
-* [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - A subreddit for every over the top, satirical, embarrassing, or downright, flat-out incorrect usage of Technology found in Movies, TV Shows, and Video Games!
-* [/r/linuxmemes](https://www.reddit.com/r/linuxmemes)
+* [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - For every over the top, satirical or incorrect usage of technology found in Movies, TV Shows etc.
+* [/r/linuxmemes](https://www.reddit.com/r/linuxmemes) - Self descriptive subreddit name.
 * [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Not everybody understands the humor of programmers.
 * [/r/programmerreactions](https://www.reddit.com/r/programmerreactions) - Expressing the life of programmers through reaction images.
 * [/r/softwaregore](https://www.reddit.com/r/softwaregore) - A collection of things that users shouldn't see.
@@ -196,7 +196,7 @@
 
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
 * [/r/learnprogramming](https://www.reddit.com/r/learnprogramming)
-* [/r/reviewmycode](https://www.reddit.com/r/reviewmycode) - A place where people can submit their code for review by their fellow redditors.
+* [/r/reviewmycode](https://www.reddit.com/r/reviewmycode)
 * [/r/coding](https://www.reddit.com/r/coding)
 
 
@@ -206,7 +206,7 @@
 
 ### .NET
 
-* [/r/dotnet](https://www.reddit.com/r/dotnet/) - 
+* [/r/dotnet](https://www.reddit.com/r/dotnet/)
 
 
 ### AutoHotkey
@@ -227,8 +227,9 @@
 
 ### C
 
-* [/r/C_Programming](https://www.reddit.com/r/C_Programming/)
 * [/r/c_language](https://www.reddit.com/r/c_language/)
+* [/r/C_Programming](https://www.reddit.com/r/C_Programming/)
+* [/r/Cprog](https://www.reddit.com/r/Cprog)
 * [/r/cprogramming](https://www.reddit.com/r/cprogramming/)
 
 
@@ -343,12 +344,12 @@
 ### Android
 
 * [/r/Android](https://www.reddit.com/r/Android/)
-* [/r/androidthemes](https://www.reddit.com/r/androidthemes)
 * [/r/androiddesign](https://www.reddit.com/r/androiddesign)
+* [/r/androidthemes](https://www.reddit.com/r/androidthemes)
 
 ### Heroku
 
-* [/r/Heroku/](https://www.reddit.com/r/Heroku/)
+* [/r/Heroku](https://www.reddit.com/r/Heroku/)
 
 
 ### iOS
@@ -404,12 +405,28 @@
 
 ## Miscellaneous
 
-* [/r/softwaredevelopment](https://www.reddit.com/r/softwaredevelopment)
+* [/r/arduino](https://www.reddit.com/r/arduino)
+* [/r/artificial](https://www.reddit.com/r/artificial)
+* [/r/AskNetsec](https://www.reddit.com/r/AskNetsec)
+* [/r/computerforensics](https://www.reddit.com/r/computerforensics)
+* [/r/computervision](https://www.reddit.com/r/computervision)
+* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects)
+* [/r/crypto](https://www.reddit.com/r/crypto)
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful)
+* [/r/datascience](https://www.reddit.com/r/datascience/)
+* [/r/datasets](https://www.reddit.com/r/datasets/)
 * [/r/dotfiles](https://www.reddit.com/r/dotfiles/)
+* [/r/embedded](https://www.reddit.com/r/embedded)
 * [/r/git](https://www.reddit.com/r/git)
-* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) -  Sharing Github projects just got easier!
 * [/r/github](https://www.reddit.com/r/github)
+* [/r/hackernews](https://www.reddit.com/r/hackernews/)
+* [/r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology)
+* [/r/machinelearning](https://www.reddit.com/r/machinelearning)
+* [/r/networking](https://www.reddit.com/r/networking)
+* [/r/opensource](https://www.reddit.com/r/opensource)
+* [/r/raspberry_pi](https://www.reddit.com/r/raspberry_pi)
+* [/r/softwaredevelopment](https://www.reddit.com/r/softwaredevelopment)
+* [/r/tinycode](https://www.reddit.com/r/tinycode)
 
 
 
