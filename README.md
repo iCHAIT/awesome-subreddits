@@ -206,31 +206,31 @@
 
 ### .NET
 
-* [dotnet](https://www.reddit.com/r/dotnet/)
+* [dotnet](https://www.reddit.com/r/dotnet/) - Everything about dotnet.
 
 
 ### AutoHotkey
 
-* [AutoHotkey](https://www.reddit.com/r/AutoHotkey/)
+* [AutoHotkey](https://www.reddit.com/r/AutoHotkey/) - For everything relating to AutoHotkey.
 
 
 ### C++
 
-* [cpp](https://www.reddit.com/r/cpp)
-* [cplusplus](https://www.reddit.com/r/cplusplus)
+* [cpp](https://www.reddit.com/r/cpp) - Discussions, articles, and news about programming in C++.
+* [cplusplus](https://www.reddit.com/r/cplusplus) - Post your C++ questions, news, work in progress, finished projects, and help here.
 
 
 ### C-sharp
 
-* [csharp](https://www.reddit.com/r/csharp)
+* [csharp](https://www.reddit.com/r/csharp) - All about the object-oriented programming language C#.
 
 
 ### C
 
-* [c_language](https://www.reddit.com/r/c_language/)
+* [c_language](https://www.reddit.com/r/c_language/) - Anything related to the C programming language.
 * [C_Programming](https://www.reddit.com/r/C_Programming/)
-* [Cprog](https://www.reddit.com/r/Cprog)
-* [cprogramming](https://www.reddit.com/r/cprogramming/)
+* [Cprog](https://www.reddit.com/r/Cprog) - For C programmers by C programmers.
+* [cprogramming](https://www.reddit.com/r/cprogramming/) - A Reddit for all things C.
 
 
 ### Clojure
@@ -240,97 +240,97 @@
 
 ### Dart
 
-* [dartlang](https://www.reddit.com/r/dartlang/)
+* [dartlang](https://www.reddit.com/r/dartlang/) - Place for all things related to the Dart programming language and its tools.
 
 
 ### Elixir
 
-* [elixir](https://www.reddit.com/r/elixir/)
+* [elixir](https://www.reddit.com/r/elixir/) - Dedicated to the Elixir programming language.
 
 
 ### Erlang
 
-* [erlang](https://www.reddit.com/r/erlang)
+* [erlang](https://www.reddit.com/r/erlang) - All things about erlang programming language.
 
 
 ### Go
 
-* [golang](https://www.reddit.com/r/golang)
+* [golang](https://www.reddit.com/r/golang) - The Go programming language community.
 
 
 ### Groovy
 
-* [groovy](https://www.reddit.com/r/groovy)
+* [groovy](https://www.reddit.com/r/groovy) - All things Groovy
 
 
 ### Haskell
 
-* [haskell](https://www.reddit.com/r/haskell)
-* [haskellquestions](https://www.reddit.com/r/haskellquestions)
+* [haskell](https://www.reddit.com/r/haskell) - The Haskell programming language community.
+* [haskellquestions](https://www.reddit.com/r/haskellquestions) - Dedicated to providing assistance for programming and solving problems in Haskell.
 * [haskelltil](https://www.reddit.com/r/haskelltil/)
 
 
 ### Java
 
-* [java](https://www.reddit.com/r/java)
-* [learnjava](https://www.reddit.com/r/learnjava)
-* [javahelp](https://www.reddit.com/r/javahelp/)
+* [java](https://www.reddit.com/r/java) - News,technical discussions,research papers and assorted things of interest related to Java.
+* [learnjava](https://www.reddit.com/r/learnjava) - Resources for learning Java.
+* [javahelp](https://www.reddit.com/r/javahelp/) - General subreddit for helping with Java code.
 
 
 ### JavaScript
 
-* [javascript](https://www.reddit.com/r/javascript/)
-* [LearnJavascript](https://www.reddit.com/r/LearnJavascript)
+* [javascript](https://www.reddit.com/r/javascript/) - All about the JavaScript programming language.
+* [LearnJavascript](https://www.reddit.com/r/LearnJavascript) - Place for people to learn JavaScript together.
 
 
 ### Julia
 
-* [Julia](https://www.reddit.com/r/Julia/)
+* [Julia](https://www.reddit.com/r/Julia/) - A place for discussing the Julia programming language.
 
 
 ### Lua
 
-* [lua](https://www.reddit.com/r/lua/)
+* [lua](https://www.reddit.com/r/lua/) - For everything involving the Lua programming language.
 
 
 ### Perl
 
-* [perl](https://www.reddit.com/r/perl)
+* [perl](https://www.reddit.com/r/perl) - For everything relating to Perl programming language.
 
 
 ### PHP
 
-* [php](https://www.reddit.com/r/php)
-* [phphelp](https://www.reddit.com/r/phphelp)
-* [learnphp](https://www.reddit.com/r/learnphp/)
+* [php](https://www.reddit.com/r/php) - For the latest news in the PHP world.
+* [phphelp](https://www.reddit.com/r/phphelp) - Post specific problems or questions you have about PHP.
+* [learnphp](https://www.reddit.com/r/learnphp/) - Place to learn PFP.
 
 
 ### Python
 
-* [Python](https://www.reddit.com/r/Python/)
+* [Python](https://www.reddit.com/r/Python/) - News about the dynamic, interpreted, interactive, object-oriented, extensible programming language Python.
 * [learnpython](https://www.reddit.com/r/learnpython)
-* [pythoncoding](https://www.reddit.com/r/pythoncoding)
+* [pythoncoding](https://www.reddit.com/r/pythoncoding) - For Python developers to share articles and discuss things relevant to Python.
 
 
 ### Ruby
 
-* [ruby](https://www.reddit.com/r/ruby)
-* [learnruby](https://www.reddit.com/r/learnruby/)
+* [ruby](https://www.reddit.com/r/ruby) - For discussion and news about Ruby programming.
+* [learnruby](https://www.reddit.com/r/learnruby/) - For people just learning Ruby and for Ruby experts looking to share their wisdom.
 
 
 ### Rust
 
-* [rust](https://www.reddit.com/r/rust/)
+* [rust](https://www.reddit.com/r/rust/) - A place for all things related to the Rust programming language.
 
 
 ### Scala
 
-* [scala](https://www.reddit.com/r/scala)
+* [scala](https://www.reddit.com/r/scala) - For everything relating to scala.
 
 
 ### Swift
 
-* [swift](https://www.reddit.com/r/swift/)
+* [swift](https://www.reddit.com/r/swift/) - Dedicated to the Swift programming language.
 
 
 
