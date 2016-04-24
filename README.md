@@ -71,8 +71,8 @@
 
 ### Django
 
-* [django](https://www.reddit.com/r/django/)
-* [djangolearning](http://www.reddit.com/r/djangolearning)
+* [django](https://www.reddit.com/r/django/) - News and links for Django developers.
+* [djangolearning](http://www.reddit.com/r/djangolearning) - For learning Django.
 
 
 ### Docker
@@ -88,7 +88,7 @@
 ### Laravel
 
 * [laravel](https://www.reddit.com/r/laravel/)
-* [learnlaravel](https://www.reddit.com/r/learnlaravel/)
+* [learnlaravel](https://www.reddit.com/r/learnlaravel/) - For Laravel tutorials and resources.
 
 
 ### nginx
@@ -98,10 +98,10 @@
 
 ### Rails
 
-* [learn_rails](https://www.reddit.com/r/learn_rails)
-* [learnrubyonrails](https://www.reddit.com/r/learnrubyonrails)
-* [rails](https://www.reddit.com/r/rails)
-* [rubyonrails](https://www.reddit.com/r/rubyonrails)
+* [learn_rails](https://www.reddit.com/r/learn_rails) - Dedicated to anybody who wants to study Ruby on Rails.
+* [learnrubyonrails](https://www.reddit.com/r/learnrubyonrails) - A subreddit to start your Ruby on Rails path.
+* [rails](https://www.reddit.com/r/rails) - For discussion and news about Ruby on Rails development.
+* [rubyonrails](https://www.reddit.com/r/rubyonrails) - For discussion and news about Ruby on Rails development.
 
 
 ### Symfony
@@ -117,22 +117,21 @@
 
 ## Browser
 
-* [chrome](https://www.reddit.com/r/chrome/)
-* [chrome_extensions](https://www.reddit.com/r/chrome_extensions)
+* [chrome](https://www.reddit.com/r/chrome/) - All about developments relating to the Google Chrome,Chromium web browsers, Chrome apps and extensions, ChromeOS, and Chromebooks.
+* [chrome_extensions](https://www.reddit.com/r/chrome_extensions) - Post your favorite Google Chrome extensions, extensions API news, and other related stuff.
 * [Firefox](https://www.reddit.com/r/Firefox)
-* [FireFoxAddons](https://www.reddit.com/r/FireFoxAddons)
-* [browsers](https://www.reddit.com/r/browsers)
-* [operabrowser](https://www.reddit.com/r/operabrowser/)
-* [safari](https://www.reddit.com/r/safari)
+* [FireFoxAddons](https://www.reddit.com/r/FireFoxAddons) - A listing of the best Firefox Addons.
+* [browsers](https://www.reddit.com/r/browsers) - For posting news about browsers, browser technology and web standards.
+* [operabrowser](https://www.reddit.com/r/operabrowser/) - Topics on the fastest web browser on earth and the Opera Mail (M2) mail client.
+* [safari](https://www.reddit.com/r/safari) - Dedicated to news and discussion pertaining to Safari as well as its extensions and rumours of the future.
 
 
 
 ## Command Line
 
-* [bash](https://www.reddit.com/r/bash/)
-* [commandline](https://www.reddit.com/r/commandline)
-* [fishshell](https://www.reddit.com/r/fishshell/)
-* [shell](https://www.reddit.com/r/shell/)
+* [bash](https://www.reddit.com/r/bash/) - A subreddit dedicated to bash scripting.
+* [commandline](https://www.reddit.com/r/commandline) - For anything regarding the command line, in any operating system.
+* [shell](https://www.reddit.com/r/shell/) - News, articles, tips and tools covering shell scripting and command-line interfaces of all flavors.
 * [zsh](https://www.reddit.com/r/zsh)
 
 
@@ -140,25 +139,25 @@
 ## Computer Science
 
 * [Algorithms](https://www.reddit.com/r/Algorithms)
-* [AskComputerScience](https://www.reddit.com/r/AskComputerScience)
-* [compsci](https://www.reddit.com/r/compsci)
-* [cscareerquestions](https://www.reddit.com/r/cscareerquestions)
-* [cseducation](https://www.reddit.com/r/cseducation)
-* [computerscience](https://www.reddit.com/r/computerscience)
+* [AskComputerScience](https://www.reddit.com/r/AskComputerScience) - Ask CompSci Questions And get answers.
+* [compsci](https://www.reddit.com/r/compsci) - Share and discuss content that computer scientists find interesting.
+* [cscareerquestions](https://www.reddit.com/r/cscareerquestions) - Discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields.
+* [cseducation](https://www.reddit.com/r/cseducation) - For computer science educators and education researchers.
+* [computerscience](https://www.reddit.com/r/computerscience) - Dedicated to all things about Computer Science.
 * [AskCompSci](https://www.reddit.com/r/AskCompSci)
 
 
 
 ## Databases
 
-* [Database](https://www.reddit.com/r/Database/)
+* [Database](https://www.reddit.com/r/Database/) - A knowledge sharing forum for databases.
 * [DatabaseHelp](https://www.reddit.com/r/DatabaseHelp/)
 * [mariadb](https://www.reddit.com/r/mariadb/)
 * [mongodb](https://www.reddit.com/r/mongodb/)
 * [mysql](https://www.reddit.com/r/mysql)
-* [PostgreSQL](https://www.reddit.com/r/PostgreSQL/)
-* [redis](https://www.reddit.com/r/redis/)
-* [SQLServer](https://www.reddit.com/r/SQLServer/)
+* [PostgreSQL](https://www.reddit.com/r/PostgreSQL/) - For PostgreSQL database enthusiasts.
+* [redis](https://www.reddit.com/r/redis/) - Redis community subreddit.
+* [SQLServer](https://www.reddit.com/r/SQLServer/) - Microsoft SQL Server Administration and T-SQL Programming.
 
 
 
@@ -174,20 +173,20 @@
 
 ## Front End Development
 
-* [Angular2](https://www.reddit.com/r/Angular2/)
+* [Angular2](https://www.reddit.com/r/Angular2/) - For news and discussion about Angular2.
 * [angularjs](https://www.reddit.com/r/angularjs)
-* [css](https://www.reddit.com/r/css)
-* [csshelp](https://www.reddit.com/r/csshelp)
-* [d3js](https://www.reddit.com/r/d3js/)
-* [frontend](https://www.reddit.com/r/frontend)
-* [html5](https://www.reddit.com/r/html5)
-* [jquery](https://www.reddit.com/r/jquery)
-* [MaterialDesign](https://www.reddit.com/r/MaterialDesign/)
-* [Meteor](https://www.reddit.com/r/Meteor/)
-* [reactjs](https://www.reddit.com/r/reactjs/)
-* [UI_Design](https://www.reddit.com/r/UI_Design)
-* [web_design](https://www.reddit.com/r/web_design)
-* [Web_Development](https://www.reddit.com/r/Web_Development/)
+* [css](https://www.reddit.com/r/css) - A place on reddit to talk about CSS.
+* [csshelp](https://www.reddit.com/r/csshelp) - For help with CSS and questions only.
+* [d3js](https://www.reddit.com/r/d3js/) - For discussing d3.js. d3, short for Data Driven Documents.
+* [frontend](https://www.reddit.com/r/frontend) - Find or share the latest and greatest tips, links, thoughts, and discussions on the world of front web development.
+* [html5](https://www.reddit.com/r/html5) - [HTML5] evolves HTML and its related APIs to ease the authoring of Web-based applications.
+* [jquery](https://www.reddit.com/r/jquery) - News, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile etc.
+* [MaterialDesign](https://www.reddit.com/r/MaterialDesign/) - For anything relating to Material Design.
+* [Meteor](https://www.reddit.com/r/Meteor/) - A reddit for discussion and news about Meteor.JS.
+* [reactjs](https://www.reddit.com/r/reactjs/) - A community for learning and developing web applications using React.
+* [UI_Design](https://www.reddit.com/r/UI_Design) - Topics related to UI design, mobile UI design, mobile app design etc.
+* [web_design](https://www.reddit.com/r/web_design) - For exploration and discovery of all things web design, development and the life cycle of the web designer.
+* [Web_Development](https://www.reddit.com/r/Web_Development/) - Web Development news, articles, and tools.
 * [webdev](https://www.reddit.com/r/webdev)
 
 
@@ -196,8 +195,8 @@
 
 * [dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
 * [learnprogramming](https://www.reddit.com/r/learnprogramming)
-* [reviewmycode](https://www.reddit.com/r/reviewmycode)
-* [coding](https://www.reddit.com/r/coding)
+* [reviewmycode](https://www.reddit.com/r/reviewmycode) - A place where people can submit their code for review.
+* [coding](https://www.reddit.com/r/coding) -  A pure discussion of programming.
 
 
 
