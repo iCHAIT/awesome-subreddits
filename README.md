@@ -343,8 +343,8 @@
 ### Android
 
 * [Android](https://www.reddit.com/r/Android/)
-* [androiddesign](https://www.reddit.com/r/androiddesign)
-* [androiddev](https://www.reddit.com/r/androiddev)
+* [androiddesign](https://www.reddit.com/r/androiddesign) - UI/UX discussions for Android OS and Android apps.
+* [androiddev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where, when and how of the Android community.
 * [androidthemes](https://www.reddit.com/r/androidthemes)
 
 ### Heroku
