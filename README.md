@@ -338,7 +338,7 @@
 
 ### Amazon Web Services
 
-* [aws](https://www.reddit.com/r/aws)
+* [aws](https://www.reddit.com/r/aws) - News, articles and tools covering Amazon Web Services.
 
 
 ### Android
@@ -356,51 +356,50 @@
 
 * [ios](https://www.reddit.com/r/ios/)
 * [iOSBeta](https://www.reddit.com/r/iOSBeta)
-* [iOSProgramming](https://www.reddit.com/r/iOSProgramming)
+* [iOSProgramming](https://www.reddit.com/r/iOSProgramming) - Share articles, code samples, open source projects and anything relating to iOS.
 
 
 ### IoT
 
-* [internetofthings](https://www.reddit.com/r/internetofthings/)
-* [IOT](https://www.reddit.com/r/IOT/)
+* [internetofthings](https://www.reddit.com/r/internetofthings/) - Following the term and technology of the IOT as it is defined and developed.
+* [IOT](https://www.reddit.com/r/IOT/) - Staying on top of the emerging term and technology behind the Internet of Things.
 
 
 ### Linux
 
 * [linux](https://www.reddit.com/r/linux/)
-* [linux4noobs](https://www.reddit.com/r/linux4noobs)
-* [linuxquestions](https://www.reddit.com/r/linuxquestions)
+* [linux4noobs](https://www.reddit.com/r/linux4noobs) - Linux introductions, tips and tutorials.
+* [linuxquestions](https://www.reddit.com/r/linuxquestions) - For any question pertaining to Linux from beginner to advanced. 
 
 
 ### Node.js
 
-* [node](https://www.reddit.com/r/node/)
+* [node](https://www.reddit.com/r/node/) - News and links for node.js developers.
 * [npm](https://www.reddit.com/r/npm)
 
 
 ### OS X
 
-* [mac](https://www.reddit.com/r/mac/)
+* [mac](https://www.reddit.com/r/mac/) - Reddit's community of Mac users, enthusiasts, and experts.
 * [macapps](https://www.reddit.com/r/macapps/)
-* [MacSetups](https://www.reddit.com/r/MacSetups)
-* [osx](https://www.reddit.com/r/osx/)
+* [MacSetups](https://www.reddit.com/r/MacSetups) - Share your Mac setup.
+* [osx](https://www.reddit.com/r/osx/) - Reddit's community for users, developers, and hackers of OS X.
 * [osxterminal](https://www.reddit.com/r/osxterminal/)
 * [OSXTweaks](https://www.reddit.com/r/OSXTweaks/)
 
 
 ### watchOS
 
-* [applewatch](https://www.reddit.com/r/applewatch)
+* [applewatch](https://www.reddit.com/r/applewatch) - Official subreddit of the Apple Watch.
 * [watchOSBeta](https://www.reddit.com/r/watchOSBeta)
 
 
 ### Windows
 
 * [windows](https://www.reddit.com/r/windows)
-* [windows8](https://www.reddit.com/r/windows8/)
+* [windows8](https://www.reddit.com/r/windows8/) - A place for anything relevant to Microsoft's latest desktop/tablet OS, Windows 8.
 * [Windows10](https://www.reddit.com/r/Windows10/)
-* [windowsinsiders](https://www.reddit.com/r/windowsinsiders)
-
+* [windowsinsiders](https://www.reddit.com/r/windowsinsiders) - A subreddit for specific discussion of Windows Insider Preview builds.
 
 
 ## Miscellaneous
