@@ -405,28 +405,30 @@
 
 ## Miscellaneous
 
-* [arduino](https://www.reddit.com/r/arduino)
-* [artificial](https://www.reddit.com/r/artificial)
-* [AskNetsec](https://www.reddit.com/r/AskNetsec)
-* [computerforensics](https://www.reddit.com/r/computerforensics)
+* [arduino](https://www.reddit.com/r/arduino) - A reddit for all things Arduino.
+* [artificial](https://www.reddit.com/r/artificial) - Artificial intelligence news, research and generally interesting links.
+* [AskNetsec](https://www.reddit.com/r/AskNetsec) - A place to ask security related questions.
+* [computerforensics](https://www.reddit.com/r/computerforensics) - A community dedicated towards the branch of forensic science.
 * [computervision](https://www.reddit.com/r/computervision)
-* [coolgithubprojects](https://www.reddit.com/r/coolgithubprojects)
-* [crypto](https://www.reddit.com/r/crypto)
-* [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful)
-* [datascience](https://www.reddit.com/r/datascience/)
-* [datasets](https://www.reddit.com/r/datasets/)
-* [dotfiles](https://www.reddit.com/r/dotfiles/)
+* [coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) - Sharing Github projects just got easier.
+* [crypto](https://www.reddit.com/r/crypto) - Intended for links and discussions surrounding the theory and practice cryptography.
+* [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) - 
+A place for visual representations of data: Graphs, charts, maps, etc.
+* [datascience](https://www.reddit.com/r/datascience/) - Place to discuss data, data science, becoming a data scientist, data munging, and more.
+* [datasets](https://www.reddit.com/r/datasets/) - Datasets for Data Mining, Analytics and Knowledge Discovery.
+* [dotfiles](https://www.reddit.com/r/dotfiles/) - Share the configuration files of your applications.
 * [embedded](https://www.reddit.com/r/embedded)
 * [git](https://www.reddit.com/r/git)
 * [github](https://www.reddit.com/r/github)
-* [hackernews](https://www.reddit.com/r/hackernews/)
-* [LanguageTechnology](https://www.reddit.com/r/LanguageTechnology)
+* [hackernews](https://www.reddit.com/r/hackernews/) - A mirror of [Hacker News](https://news.ycombinator.com/).
+* [LanguageTechnology](https://www.reddit.com/r/LanguageTechnology) - 
+Articles on natural language processing.
 * [machinelearning](https://www.reddit.com/r/machinelearning)
 * [networking](https://www.reddit.com/r/networking)
-* [opensource](https://www.reddit.com/r/opensource)
-* [raspberry_pi](https://www.reddit.com/r/raspberry_pi)
-* [softwaredevelopment](https://www.reddit.com/r/softwaredevelopment)
-* [tinycode](https://www.reddit.com/r/tinycode)
+* [opensource](https://www.reddit.com/r/opensource) - A subreddit for everything open source related.
+* [raspberry_pi](https://www.reddit.com/r/raspberry_pi) - For discussing the raspberry pi credit card sized, ARM powered computer etc.
+* [softwaredevelopment](https://www.reddit.com/r/softwaredevelopment) - Software development methodologies, techniques, and tools.
+* [tinycode](https://www.reddit.com/r/tinycode) - A subreddit for minimalistic, often but not always simple implementations of just about everything.
 
 
 
