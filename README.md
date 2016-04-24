@@ -344,6 +344,7 @@
 
 * [Android](https://www.reddit.com/r/Android/)
 * [androiddesign](https://www.reddit.com/r/androiddesign)
+* [androiddev](https://www.reddit.com/r/androiddev)
 * [androidthemes](https://www.reddit.com/r/androidthemes)
 
 ### Heroku
