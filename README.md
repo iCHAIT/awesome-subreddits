@@ -157,6 +157,7 @@
 * [mysql](https://www.reddit.com/r/mysql)
 * [PostgreSQL](https://www.reddit.com/r/PostgreSQL/) - For PostgreSQL database enthusiasts.
 * [redis](https://www.reddit.com/r/redis/) - Redis community subreddit.
+* [RethinkDB](https://www.reddit.com/r/rethinkdb/) 
 * [SQLServer](https://www.reddit.com/r/SQLServer/) - Microsoft SQL Server Administration and T-SQL Programming.
 
 
