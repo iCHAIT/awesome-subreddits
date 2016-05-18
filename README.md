@@ -423,7 +423,8 @@ A place for visual representations of data: Graphs, charts, maps, etc.
 * [hackernews](https://www.reddit.com/r/hackernews/) - A mirror of [Hacker News](https://news.ycombinator.com/).
 * [LanguageTechnology](https://www.reddit.com/r/LanguageTechnology) - 
 Articles on natural language processing.
-* [machinelearning](https://www.reddit.com/r/machinelearning)
+* [machinelearning](https://www.reddit.com/r/machinelearning) - News, Research Papers, Videos, Lectures, Softwares and Discussions on Machine Learning.
+* [MLQuestions](https://www.reddit.com/r/MLQuestions/) - For all your Machine Learning questions.
 * [networking](https://www.reddit.com/r/networking)
 * [opensource](https://www.reddit.com/r/opensource) - A subreddit for everything open source related.
 * [raspberry_pi](https://www.reddit.com/r/raspberry_pi) - For discussing the raspberry pi credit card sized, ARM powered computer etc.
