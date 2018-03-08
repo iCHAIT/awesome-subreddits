@@ -198,6 +198,7 @@
 * [learnprogramming](https://www.reddit.com/r/learnprogramming)
 * [reviewmycode](https://www.reddit.com/r/reviewmycode) - A place where people can submit their code for review.
 * [coding](https://www.reddit.com/r/coding) -  A pure discussion of programming.
+* [programming](https://www.reddit.com/r/programming) - For discussion and news on programming.
 
 
 
