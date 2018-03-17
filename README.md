@@ -18,6 +18,7 @@
 - [Command Line](#command-line)
 - [Computer Science](#computer-science)
 - [Databases](#databases)
+- [Editors](#editors)
 - [Entertainment](#entertainment)
 - [Front End Developmnt](#front-end-development)
 - [Programming](#programming)
@@ -157,12 +158,15 @@
 * [mysql](https://www.reddit.com/r/mysql)
 * [PostgreSQL](https://www.reddit.com/r/PostgreSQL/) - For PostgreSQL database enthusiasts.
 * [redis](https://www.reddit.com/r/redis/) - Redis community subreddit.
-* [RethinkDB](https://www.reddit.com/r/rethinkdb/) 
+* [RethinkDB](https://www.reddit.com/r/rethinkdb/)
 * [SQLServer](https://www.reddit.com/r/SQLServer/) - Microsoft SQL Server Administration and T-SQL Programming.
 
+## Editors
 
+* [emacs](https://www.reddit.com/r/emacs)
+* [vim](https://www.reddit.com/r/vim)
 
-### Entertainment
+## Entertainment
 
 * [itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - For every over the top, satirical or incorrect usage of technology found in Movies, TV Shows etc.
 * [linuxmemes](https://www.reddit.com/r/linuxmemes) - Self descriptive subreddit name.
@@ -371,7 +375,7 @@
 
 * [linux](https://www.reddit.com/r/linux/)
 * [linux4noobs](https://www.reddit.com/r/linux4noobs) - Linux introductions, tips and tutorials.
-* [linuxquestions](https://www.reddit.com/r/linuxquestions) - For any question pertaining to Linux from beginner to advanced. 
+* [linuxquestions](https://www.reddit.com/r/linuxquestions) - For any question pertaining to Linux from beginner to advanced.
 
 
 ### Node.js
@@ -413,7 +417,7 @@
 * [computervision](https://www.reddit.com/r/computervision)
 * [coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) - Sharing Github projects just got easier.
 * [crypto](https://www.reddit.com/r/crypto) - Intended for links and discussions surrounding the theory and practice cryptography.
-* [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) - 
+* [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) -
 A place for visual representations of data: Graphs, charts, maps, etc.
 * [datascience](https://www.reddit.com/r/datascience/) - Place to discuss data, data science, becoming a data scientist, data munging, and more.
 * [datasets](https://www.reddit.com/r/datasets/) - Datasets for Data Mining, Analytics and Knowledge Discovery.
@@ -422,7 +426,7 @@ A place for visual representations of data: Graphs, charts, maps, etc.
 * [git](https://www.reddit.com/r/git)
 * [github](https://www.reddit.com/r/github)
 * [hackernews](https://www.reddit.com/r/hackernews/) - A mirror of [Hacker News](https://news.ycombinator.com/).
-* [LanguageTechnology](https://www.reddit.com/r/LanguageTechnology) - 
+* [LanguageTechnology](https://www.reddit.com/r/LanguageTechnology) -
 Articles on natural language processing.
 * [machinelearning](https://www.reddit.com/r/machinelearning) - News, Research Papers, Videos, Lectures, Softwares and Discussions on Machine Learning.
 * [MLQuestions](https://www.reddit.com/r/MLQuestions/) - For all your Machine Learning questions.
