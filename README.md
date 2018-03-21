@@ -433,6 +433,7 @@ Articles on natural language processing.
 * [networking](https://www.reddit.com/r/networking)
 * [opensource](https://www.reddit.com/r/opensource) - A subreddit for everything open source related.
 * [raspberry_pi](https://www.reddit.com/r/raspberry_pi) - For discussing the raspberry pi credit card sized, ARM powered computer etc.
+* [Regex](https://www.reddit.com/r/regex/) - Questions and help on all topics concerning regular expressions.
 * [softwaredevelopment](https://www.reddit.com/r/softwaredevelopment) - Software development methodologies, techniques, and tools.
 * [tinycode](https://www.reddit.com/r/tinycode) - A subreddit for minimalistic, often but not always simple implementations of just about everything.
 
