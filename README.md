@@ -307,7 +307,7 @@
 
 * [php](https://www.reddit.com/r/php) - For the latest news in the PHP world.
 * [phphelp](https://www.reddit.com/r/phphelp) - Post specific problems or questions you have about PHP.
-* [learnphp](https://www.reddit.com/r/learnphp/) - Place to learn PFP.
+* [learnphp](https://www.reddit.com/r/learnphp/) - Place to learn PHP.
 
 
 ### Python
