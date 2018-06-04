@@ -38,6 +38,7 @@
     - [Java](#java)
     - [JavaScript](#javascript)
     - [Julia](#julia)
+    - [LaTeX](#latex)
     - [Lua](#lua)
     - [Perl](#perl)
     - [PHP](#php)
@@ -291,6 +292,11 @@
 ### Julia
 
 * [Julia](https://www.reddit.com/r/Julia/) - A place for discussing the Julia programming language.
+
+
+### LaTeX
+
+* [LaTex](https://www.reddit.com/r/LaTeX/) - Everything related to the LaTeX programming language.
 
 
 ### Lua
