@@ -165,6 +165,7 @@
 ## Editors
 
 * [emacs](https://www.reddit.com/r/emacs)
+* [neovim](https://www.reddit.com/r/neovim)
 * [vim](https://www.reddit.com/r/vim)
 
 ## Entertainment
