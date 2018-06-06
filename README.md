@@ -438,6 +438,7 @@ Articles on natural language processing.
 * [MLQuestions](https://www.reddit.com/r/MLQuestions/) - For all your Machine Learning questions.
 * [networking](https://www.reddit.com/r/networking)
 * [opensource](https://www.reddit.com/r/opensource) - A subreddit for everything open source related.
+* [ProgrammingLanguages](https://www.com/r/ProgrammingLanguages) - Discussions of programming language creation and design.
 * [raspberry_pi](https://www.reddit.com/r/raspberry_pi) - For discussing the raspberry pi credit card sized, ARM powered computer etc.
 * [Regex](https://www.reddit.com/r/regex/) - Questions and help on all topics concerning regular expressions.
 * [softwaredevelopment](https://www.reddit.com/r/softwaredevelopment) - Software development methodologies, techniques, and tools.
