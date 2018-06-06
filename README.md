@@ -38,6 +38,7 @@
     - [Java](#java)
     - [JavaScript](#javascript)
     - [Julia](#julia)
+    - [Kotlin](#kotlin)
     - [LaTeX](#latex)
     - [Lua](#lua)
     - [Perl](#perl)
@@ -288,6 +289,11 @@
 
 * [javascript](https://www.reddit.com/r/javascript/) - All about the JavaScript programming language.
 * [LearnJavascript](https://www.reddit.com/r/LearnJavascript) - Place for people to learn JavaScript together.
+
+
+### Kotlin
+
+* [Kotlin](https://www.reddit.com/r/kotlin/) - For everything related to using the Kotlin programming language.
 
 
 ### Julia
