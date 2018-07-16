@@ -391,7 +391,7 @@
 * [linuxquestions](https://www.reddit.com/r/linuxquestions) - For any question pertaining to Linux from beginner to advanced.
 
 ### Microsoft Azure
-* [AZURE](https://www.reddit.com/r/AZURE/) News and articles covering Microsoft Azure
+* [AZURE](https://www.reddit.com/r/AZURE/) - News and articles covering Microsoft Azure
 
 ### Node.js
 
