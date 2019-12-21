@@ -60,6 +60,7 @@
     - [watchOS](#watchos)
     - [Windows](#windows)
 - [Miscellaneous](#miscellaneous)
+- [Mobile Development](#mobile-development)
 - [Contribute](#contribute)
 
 
@@ -455,7 +456,12 @@ Articles on natural language processing.
 * [unixporn](https://www.reddit.com/r/unixporn) - A collection of screenshots and links for aesthetics-oriented Unix tooling.
 * [WatchPeopleCode](https://www.reddit.com/r/WatchPeopleCode) - Live streams of various individual coding sessions.
 
+## Mobile Development
 
+* [ReactNative](https://www.reddit.com/r/reactnative)
+* [Flutter](https://www.reddit.com/r/flutter)
+* [XamarinDevelopers](https://www.reddit.com/r/xamarindevelopers)
+* [PhoneGap](https://www.reddit.com/r/phonegap)
 
 ## Contribute
 
