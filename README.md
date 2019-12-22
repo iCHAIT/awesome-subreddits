@@ -196,6 +196,7 @@
 * [Meteor](https://www.reddit.com/r/Meteor/) - A reddit for discussion and news about Meteor.JS.
 * [reactjs](https://www.reddit.com/r/reactjs/) - A community for learning and developing web applications using React.
 * [UI_Design](https://www.reddit.com/r/UI_Design) - Topics related to UI design, mobile UI design, mobile app design etc.
+* [vuejs](https://www.reddit.com/r/vuejs) - For news and discussion about Vue.js.
 * [web_design](https://www.reddit.com/r/web_design) - For exploration and discovery of all things web design, development and the life cycle of the web designer.
 * [Web_Development](https://www.reddit.com/r/Web_Development/) - Web Development news, articles, and tools.
 * [webdev](https://www.reddit.com/r/webdev)
