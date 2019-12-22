@@ -170,6 +170,7 @@
 * [emacs](https://www.reddit.com/r/emacs)
 * [neovim](https://www.reddit.com/r/neovim)
 * [vim](https://www.reddit.com/r/vim)
+* [vscode](https://www.reddit.com/r/vscode/) - Visual Studio Code.
 
 ## Entertainment
 
