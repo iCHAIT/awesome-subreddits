@@ -146,6 +146,7 @@
 * [AskComputerScience](https://www.reddit.com/r/AskComputerScience) - Ask CompSci Questions And get answers.
 * [compsci](https://www.reddit.com/r/compsci) - Share and discuss content that computer scientists find interesting.
 * [cscareerquestions](https://www.reddit.com/r/cscareerquestions) - Discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields.
+* [cscareerquestionsEU](https://www.reddit.com/r/cscareerquestionseu) - A subreddit for CS workers in the European Continent.
 * [cseducation](https://www.reddit.com/r/cseducation) - For computer science educators and education researchers.
 * [computerscience](https://www.reddit.com/r/computerscience) - Dedicated to all things about Computer Science.
 * [AskCompSci](https://www.reddit.com/r/AskCompSci)
