@@ -347,7 +347,8 @@
 
 ### Scala
 
-* [scala](https://www.reddit.com/r/scala) - For everything relating to scala.
+* [scala](https://www.reddit.com/r/scala) - For everything relating to Scala.
+* [hascalator](https://www.reddit.com/r/hascalator/) - For functional programming in Scala
 
 
 ### Swift
