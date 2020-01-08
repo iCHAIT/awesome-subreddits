@@ -347,8 +347,8 @@
 
 ### Scala
 
-* [scala](https://www.reddit.com/r/scala) - For everything relating to Scala.
 * [hascalator](https://www.reddit.com/r/hascalator/) - For functional programming in Scala
+* [scala](https://www.reddit.com/r/scala) - For everything relating to Scala.
 
 
 ### Swift
@@ -462,11 +462,11 @@ Articles on natural language processing.
 
 ## Mobile Development
 
-* [ReactNative](https://www.reddit.com/r/reactnative)
 * [Flutter](https://www.reddit.com/r/flutter)
 * [FlutterDev](https://www.reddit.com/r/FlutterDev/)
-* [XamarinDevelopers](https://www.reddit.com/r/xamarindevelopers)
 * [PhoneGap](https://www.reddit.com/r/phonegap)
+* [ReactNative](https://www.reddit.com/r/reactnative)
+* [XamarinDevelopers](https://www.reddit.com/r/xamarindevelopers)
 
 ## Contribute
 
