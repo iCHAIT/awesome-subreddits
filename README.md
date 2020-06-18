@@ -51,6 +51,7 @@
 - [Platforms](#platforms)
     - [Amazon Web Services](#amazon-web-services)
     - [Android](#android)
+    - [Firebase](#firebase)
     - [Heroku](#heroku)
     - [iOS](#ios)
     - [IoT](#iot)
@@ -190,6 +191,7 @@
 * [csshelp](https://www.reddit.com/r/csshelp) - For help with CSS and questions only.
 * [d3js](https://www.reddit.com/r/d3js/) - For discussing d3.js. d3, short for Data Driven Documents.
 * [frontend](https://www.reddit.com/r/frontend) - Find or share the latest and greatest tips, links, thoughts, and discussions on the world of front web development.
+* [Gatsbyjs](https://old.reddit.com/r/gatsbyjs) - We learn, discuss, and share experience developing websites using GatsbyJS .development. 
 * [html5](https://www.reddit.com/r/html5) - [HTML5] evolves HTML and its related APIs to ease the authoring of Web-based applications.
 * [jquery](https://www.reddit.com/r/jquery) - News, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile etc.
 * [MaterialDesign](https://www.reddit.com/r/MaterialDesign/) - For anything relating to Material Design.
@@ -363,7 +365,6 @@
 
 * [aws](https://www.reddit.com/r/aws) - News, articles and tools covering Amazon Web Services.
 
-
 ### Android
 
 * [Android](https://www.reddit.com/r/Android/)
@@ -371,10 +372,13 @@
 * [androiddev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where, when and how of the Android community.
 * [androidthemes](https://www.reddit.com/r/androidthemes)
 
+### Firebase
+
+* [Firebase](https://www.reddit.com/r/Firebase)
+
 ### Heroku
 
 * [Heroku](https://www.reddit.com/r/Heroku/)
-
 
 ### iOS
 
