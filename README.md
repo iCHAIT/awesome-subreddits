@@ -463,6 +463,7 @@ Articles on natural language processing.
 * [tinycode](https://www.reddit.com/r/tinycode) - A subreddit for minimalistic, often but not always simple implementations of just about everything.
 * [unixporn](https://www.reddit.com/r/unixporn) - A collection of screenshots and links for aesthetics-oriented Unix tooling.
 * [WatchPeopleCode](https://www.reddit.com/r/WatchPeopleCode) - Live streams of various individual coding sessions.
+* [Crypto Subreddit Dashboard] (https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A Dashboard which tracks top daily cryptocurrency subreddits.
 
 ## Mobile Development
 
