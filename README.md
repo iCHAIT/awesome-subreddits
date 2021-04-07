@@ -441,6 +441,7 @@
 * [computervision](https://www.reddit.com/r/computervision)
 * [coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) - Sharing Github projects just got easier.
 * [crypto](https://www.reddit.com/r/crypto) - Intended for links and discussions surrounding the theory and practice cryptography.
+* [Crypto Subreddit Dashboard] (https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A Dashboard which tracks top daily cryptocurrency subreddits.
 * [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) -
 A place for visual representations of data: Graphs, charts, maps, etc.
 * [datascience](https://www.reddit.com/r/datascience/) - Place to discuss data, data science, becoming a data scientist, data munging, and more.
@@ -463,7 +464,6 @@ Articles on natural language processing.
 * [tinycode](https://www.reddit.com/r/tinycode) - A subreddit for minimalistic, often but not always simple implementations of just about everything.
 * [unixporn](https://www.reddit.com/r/unixporn) - A collection of screenshots and links for aesthetics-oriented Unix tooling.
 * [WatchPeopleCode](https://www.reddit.com/r/WatchPeopleCode) - Live streams of various individual coding sessions.
-* [Crypto Subreddit Dashboard] (https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A Dashboard which tracks top daily cryptocurrency subreddits.
 
 ## Mobile Development
 
