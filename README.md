@@ -1,4 +1,4 @@
-## Awesome Subreddits [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Subreddits
 
 > A curated list of awesome programming subreddits.
 
@@ -38,6 +38,8 @@
     - [Java](#java)
     - [JavaScript](#javascript)
     - [Julia](#julia)
+    - [Kotlin](#kotlin)
+    - [LaTeX](#latex)
     - [Lua](#lua)
     - [Perl](#perl)
     - [PHP](#php)
@@ -49,6 +51,7 @@
 - [Platforms](#platforms)
     - [Amazon Web Services](#amazon-web-services)
     - [Android](#android)
+    - [Firebase](#firebase)
     - [Heroku](#heroku)
     - [iOS](#ios)
     - [IoT](#iot)
@@ -58,6 +61,7 @@
     - [watchOS](#watchos)
     - [Windows](#windows)
 - [Miscellaneous](#miscellaneous)
+- [Mobile Development](#mobile-development)
 - [Contribute](#contribute)
 
 
@@ -143,6 +147,7 @@
 * [AskComputerScience](https://www.reddit.com/r/AskComputerScience) - Ask CompSci Questions And get answers.
 * [compsci](https://www.reddit.com/r/compsci) - Share and discuss content that computer scientists find interesting.
 * [cscareerquestions](https://www.reddit.com/r/cscareerquestions) - Discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields.
+* [cscareerquestionsEU](https://www.reddit.com/r/cscareerquestionseu) - A subreddit for CS workers in the European Continent.
 * [cseducation](https://www.reddit.com/r/cseducation) - For computer science educators and education researchers.
 * [computerscience](https://www.reddit.com/r/computerscience) - Dedicated to all things about Computer Science.
 * [AskCompSci](https://www.reddit.com/r/AskCompSci)
@@ -164,7 +169,9 @@
 ## Editors
 
 * [emacs](https://www.reddit.com/r/emacs)
+* [neovim](https://www.reddit.com/r/neovim)
 * [vim](https://www.reddit.com/r/vim)
+* [vscode](https://www.reddit.com/r/vscode/) - Visual Studio Code.
 
 ## Entertainment
 
@@ -184,12 +191,14 @@
 * [csshelp](https://www.reddit.com/r/csshelp) - For help with CSS and questions only.
 * [d3js](https://www.reddit.com/r/d3js/) - For discussing d3.js. d3, short for Data Driven Documents.
 * [frontend](https://www.reddit.com/r/frontend) - Find or share the latest and greatest tips, links, thoughts, and discussions on the world of front web development.
+* [Gatsbyjs](https://old.reddit.com/r/gatsbyjs) - We learn, discuss, and share experience developing websites using GatsbyJS.
 * [html5](https://www.reddit.com/r/html5) - [HTML5] evolves HTML and its related APIs to ease the authoring of Web-based applications.
 * [jquery](https://www.reddit.com/r/jquery) - News, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile etc.
 * [MaterialDesign](https://www.reddit.com/r/MaterialDesign/) - For anything relating to Material Design.
 * [Meteor](https://www.reddit.com/r/Meteor/) - A reddit for discussion and news about Meteor.JS.
 * [reactjs](https://www.reddit.com/r/reactjs/) - A community for learning and developing web applications using React.
 * [UI_Design](https://www.reddit.com/r/UI_Design) - Topics related to UI design, mobile UI design, mobile app design etc.
+* [vuejs](https://www.reddit.com/r/vuejs) - For news and discussion about Vue.js.
 * [web_design](https://www.reddit.com/r/web_design) - For exploration and discovery of all things web design, development and the life cycle of the web designer.
 * [Web_Development](https://www.reddit.com/r/Web_Development/) - Web Development news, articles, and tools.
 * [webdev](https://www.reddit.com/r/webdev)
@@ -288,9 +297,19 @@
 * [LearnJavascript](https://www.reddit.com/r/LearnJavascript) - Place for people to learn JavaScript together.
 
 
+### Kotlin
+
+* [Kotlin](https://www.reddit.com/r/kotlin/) - For everything related to using the Kotlin programming language.
+
+
 ### Julia
 
 * [Julia](https://www.reddit.com/r/Julia/) - A place for discussing the Julia programming language.
+
+
+### LaTeX
+
+* [LaTex](https://www.reddit.com/r/LaTeX/) - Everything related to the LaTeX programming language.
 
 
 ### Lua
@@ -307,7 +326,7 @@
 
 * [php](https://www.reddit.com/r/php) - For the latest news in the PHP world.
 * [phphelp](https://www.reddit.com/r/phphelp) - Post specific problems or questions you have about PHP.
-* [learnphp](https://www.reddit.com/r/learnphp/) - Place to learn PFP.
+* [learnphp](https://www.reddit.com/r/learnphp/) - Place to learn PHP.
 
 
 ### Python
@@ -330,7 +349,8 @@
 
 ### Scala
 
-* [scala](https://www.reddit.com/r/scala) - For everything relating to scala.
+* [hascalator](https://www.reddit.com/r/hascalator/) - For functional programming in Scala
+* [scala](https://www.reddit.com/r/scala) - For everything relating to Scala.
 
 
 ### Swift
@@ -345,7 +365,6 @@
 
 * [aws](https://www.reddit.com/r/aws) - News, articles and tools covering Amazon Web Services.
 
-
 ### Android
 
 * [Android](https://www.reddit.com/r/Android/)
@@ -353,10 +372,13 @@
 * [androiddev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where, when and how of the Android community.
 * [androidthemes](https://www.reddit.com/r/androidthemes)
 
+### Firebase
+
+* [Firebase](https://www.reddit.com/r/Firebase)
+
 ### Heroku
 
 * [Heroku](https://www.reddit.com/r/Heroku/)
-
 
 ### iOS
 
@@ -377,6 +399,8 @@
 * [linux4noobs](https://www.reddit.com/r/linux4noobs) - Linux introductions, tips and tutorials.
 * [linuxquestions](https://www.reddit.com/r/linuxquestions) - For any question pertaining to Linux from beginner to advanced.
 
+### Microsoft Azure
+* [AZURE](https://www.reddit.com/r/AZURE/) - News and articles covering Microsoft Azure
 
 ### Node.js
 
@@ -417,6 +441,7 @@
 * [computervision](https://www.reddit.com/r/computervision)
 * [coolgithubprojects](https://www.reddit.com/r/coolgithubprojects) - Sharing Github projects just got easier.
 * [crypto](https://www.reddit.com/r/crypto) - Intended for links and discussions surrounding the theory and practice cryptography.
+* [Crypto Subreddit Dashboard] (https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A Dashboard which tracks top daily cryptocurrency subreddits.
 * [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) -
 A place for visual representations of data: Graphs, charts, maps, etc.
 * [datascience](https://www.reddit.com/r/datascience/) - Place to discuss data, data science, becoming a data scientist, data munging, and more.
@@ -432,12 +457,21 @@ Articles on natural language processing.
 * [MLQuestions](https://www.reddit.com/r/MLQuestions/) - For all your Machine Learning questions.
 * [networking](https://www.reddit.com/r/networking)
 * [opensource](https://www.reddit.com/r/opensource) - A subreddit for everything open source related.
+* [ProgrammingLanguages](https://www.reddit.com/r/ProgrammingLanguages/) - Discussions of programming language creation and design.
 * [raspberry_pi](https://www.reddit.com/r/raspberry_pi) - For discussing the raspberry pi credit card sized, ARM powered computer etc.
 * [Regex](https://www.reddit.com/r/regex/) - Questions and help on all topics concerning regular expressions.
 * [softwaredevelopment](https://www.reddit.com/r/softwaredevelopment) - Software development methodologies, techniques, and tools.
 * [tinycode](https://www.reddit.com/r/tinycode) - A subreddit for minimalistic, often but not always simple implementations of just about everything.
+* [unixporn](https://www.reddit.com/r/unixporn) - A collection of screenshots and links for aesthetics-oriented Unix tooling.
+* [WatchPeopleCode](https://www.reddit.com/r/WatchPeopleCode) - Live streams of various individual coding sessions.
 
+## Mobile Development
 
+* [Flutter](https://www.reddit.com/r/flutter)
+* [FlutterDev](https://www.reddit.com/r/FlutterDev/)
+* [PhoneGap](https://www.reddit.com/r/phonegap)
+* [ReactNative](https://www.reddit.com/r/reactnative)
+* [XamarinDevelopers](https://www.reddit.com/r/xamarindevelopers)
 
 ## Contribute
 
