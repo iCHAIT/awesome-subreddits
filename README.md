@@ -40,6 +40,7 @@
     - [Julia](#julia)
     - [Kotlin](#kotlin)
     - [LaTeX](#latex)
+	- [Lisp](#lisp)
     - [Lua](#lua)
     - [Perl](#perl)
     - [PHP](#php)
@@ -311,6 +312,13 @@
 
 * [LaTex](https://www.reddit.com/r/LaTeX/) - Everything related to the LaTeX programming language.
 
+
+### Lisp
+
+* [Common Lisp](https://www.reddit.com/r/Common_Lisp/) - Common Lisp is one of the main Lisp dialects. Major Common Lisp implementations are ABCL, Allegro CL, CCL, CLISP, CMUCL, ECL, GCL, LispWorks, SBCL.
+* [Learn Lisp](https://www.reddit.com/r/learnlisp/) - Ask questions and get help for all your Lisp-related queries. Specifically for those new to and learning Lisp.
+* [Lisp](https://www.reddit.com/r/lisp) - A subreddit for the Lisp family of programming languages.
+* [SBCL](https://www.reddit.com/r/sbcl/) - Steel Bank Common Lisp
 
 ### Lua
 
