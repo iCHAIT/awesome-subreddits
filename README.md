@@ -48,6 +48,7 @@
     - [Rust](#rust)
     - [Scala](#scala)
     - [Swift](#swift)
+    - [V](#v)
 - [Platforms](#platforms)
     - [Amazon Web Services](#amazon-web-services)
     - [Android](#android)
@@ -357,6 +358,11 @@
 ### Swift
 
 * [swift](https://www.reddit.com/r/swift/) - Dedicated to the Swift programming language.
+
+
+### V
+
+* [vlang](https://www.reddit.com/r/vlang/) - A community dedicated to V programming language.
 
 
 
