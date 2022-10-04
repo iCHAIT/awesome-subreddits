@@ -455,6 +455,7 @@ A place for visual representations of data: Graphs, charts, maps, etc.
 * [datasets](https://www.reddit.com/r/datasets/) - Datasets for Data Mining, Analytics and Knowledge Discovery.
 * [dotfiles](https://www.reddit.com/r/dotfiles/) - Share the configuration files of your applications.
 * [embedded](https://www.reddit.com/r/embedded)
+* [functionalprogramming](https://www.reddit.com/r/functionalprogramming)
 * [git](https://www.reddit.com/r/git)
 * [github](https://www.reddit.com/r/github)
 * [hackernews](https://www.reddit.com/r/hackernews/) - A mirror of [Hacker News](https://news.ycombinator.com/).
