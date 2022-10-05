@@ -49,6 +49,7 @@
     - [Scala](#scala)
     - [Swift](#swift)
     - [V](#v)
+    - [Zig](#zig)
 - [Platforms](#platforms)
     - [Amazon Web Services](#amazon-web-services)
     - [Android](#android)
@@ -363,6 +364,11 @@
 ### V
 
 * [vlang](https://www.reddit.com/r/vlang/) - A community dedicated to V programming language.
+
+
+### Zig
+
+* [zig](https://www.reddit.com/r/Zig/) - A place to discuss about the Zig programming language.
 
 
 
