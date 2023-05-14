@@ -128,7 +128,9 @@
 * [chrome_extensions](https://www.reddit.com/r/chrome_extensions) - Post your favorite Google Chrome extensions, extensions API news, and other related stuff.
 * [Firefox](https://www.reddit.com/r/Firefox)
 * [FireFoxAddons](https://www.reddit.com/r/FireFoxAddons) - A listing of the best Firefox Addons.
+* [LibreWolf](https://www.reddit.com/r/LibreWolf) - A place for everyone related with LibreWolf browser.
 * [browsers](https://www.reddit.com/r/browsers) - For posting news about browsers, browser technology and web standards.
+* [Brave](https://www.reddit.com/r/brave_browser) - A place for posting articles relating with Brave and Chromium web browsers, helping others.
 * [operabrowser](https://www.reddit.com/r/operabrowser/) - Topics on the fastest web browser on earth and the Opera Mail (M2) mail client.
 * [safari](https://www.reddit.com/r/safari) - Dedicated to news and discussion pertaining to Safari as well as its extensions and rumours of the future.
 
