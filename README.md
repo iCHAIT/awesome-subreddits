@@ -483,7 +483,6 @@ Articles on natural language processing.
 
 ## Mobile Development
 
-* [Flutter](https://www.reddit.com/r/flutter)
 * [FlutterDev](https://www.reddit.com/r/FlutterDev/)
 * [PhoneGap](https://www.reddit.com/r/phonegap)
 * [ReactNative](https://www.reddit.com/r/reactnative)
